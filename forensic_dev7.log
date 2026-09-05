@@ -1,0 +1,220 @@
+
+> nextjs-clone-dailytips@0.1.0 dev
+> next dev
+
+▲ Next.js 16.3.4 (Turbopack)
+- Local:         http://localhost:3000
+- Network:       http://10.119.173.113:3000
+✓ Ready in 2.4s
+✓ Running next.config.ts took 357ms
+
+ GET / 200 in 3.4s (next.js: 1931ms, application-code: 1479ms)
+ GET / 200 in 1777ms (next.js: 985ms, application-code: 792ms)
+[browser] SiteScripts init failed: TypeError: a(...).find(...).andSelf is not a function
+    at c.<anonymous> (http://localhost:3000/vendor/owl.carousel.min.js:2:7592)
+    at HTMLDivElement.i (http://localhost:3000/vendor/jquery.min.js:2:86755)
+    at HTMLDivElement.dispatch (http://localhost:3000/vendor/jquery.min.js:2:40035)
+    at v.handle (http://localhost:3000/vendor/jquery.min.js:2:38006)
+    at Object.trigger (http://localhost:3000/vendor/jquery.min.js:2:70124)
+    at HTMLDivElement.<anonymous> (http://localhost:3000/vendor/jquery.min.js:2:70726)
+    at ce.each (http://localhost:3000/vendor/jquery.min.js:2:3129)
+    at ce.fn.init.each (http://localhost:3000/vendor/jquery.min.js:2:1594)
+    at ce.fn.init.trigger (http://localhost:3000/vendor/jquery.min.js:2:70701)
+    at e.trigger (http://localhost:3000/vendor/owl.carousel.min.js:1:22366)
+    at e.prepare (http://localhost:3000/vendor/owl.carousel.min.js:1:7263)
+    at e.<anonymous> (http://localhost:3000/vendor/owl.carousel.min.js:1:18580)
+    at HTMLDivElement.i (http://localhost:3000/vendor/jquery.min.js:2:86755)
+    at ce.each (http://localhost:3000/vendor/jquery.min.js:2:3129)
+    at ce.fn.init.each (http://localhost:3000/vendor/jquery.min.js:2:1594)
+    at e.replace (http://localhost:3000/vendor/owl.carousel.min.js:1:18546)
+    at e.initialize (http://localhost:3000/vendor/owl.carousel.min.js:1:5941)
+    at new e (http://localhost:3000/vendor/owl.carousel.min.js:1:624)
+    at HTMLDivElement.<anonymous> (http://localhost:3000/vendor/owl.carousel.min.js:1:23156)
+    at ce.each (http://localhost:3000/vendor/jquery.min.js:2:3129)
+    at ce.fn.init.each (http://localhost:3000/vendor/jquery.min.js:2:1594)
+    at a.fn.owlCarousel (http://localhost:3000/vendor/owl.carousel.min.js:1:23084)
+    at SiteScripts.useEffect.init.initCarousel (components/SiteScripts.tsx:86:27)
+    at SiteScripts.useEffect.init (components/SiteScripts.tsx:106:9)
+    at NodeList.forEach (<anonymous>)
+    at SiteScripts.useEffect.init (components/SiteScripts.tsx:104:78)
+  84 |         }
+  85 |         const c = sliderControls(controls);
+> 86 |         window.jQuery(el).owlCarousel({
+     |                           ^
+  87 |           loop: c.newsprk_slider_loop,
+  88 |           autoplay: c.newsprk_slider_autoplay,
+  89 |           nav: c.newsprk_slider_nav_show, (components/SiteScripts.tsx:263:33)
+[browser] SiteScripts init failed: TypeError: a(...).find(...).andSelf is not a function
+    at c.<anonymous> (http://localhost:3000/vendor/owl.carousel.min.js:2:7592)
+    at HTMLDivElement.i (http://localhost:3000/vendor/jquery.min.js:2:86755)
+    at HTMLDivElement.dispatch (http://localhost:3000/vendor/jquery.min.js:2:40035)
+    at v.handle (http://localhost:3000/vendor/jquery.min.js:2:38006)
+    at Object.trigger (http://localhost:3000/vendor/jquery.min.js:2:70124)
+    at HTMLDivElement.<anonymous> (http://localhost:3000/vendor/jquery.min.js:2:70726)
+    at ce.each (http://localhost:3000/vendor/jquery.min.js:2:3129)
+    at ce.fn.init.each (http://localhost:3000/vendor/jquery.min.js:2:1594)
+    at ce.fn.init.trigger (http://localhost:3000/vendor/jquery.min.js:2:70701)
+    at e.trigger (http://localhost:3000/vendor/owl.carousel.min.js:1:22366)
+    at e.prepare (http://localhost:3000/vendor/owl.carousel.min.js:1:7263)
+    at e.<anonymous> (http://localhost:3000/vendor/owl.carousel.min.js:1:18580)
+    at HTMLDivElement.i (http://localhost:3000/vendor/jquery.min.js:2:86755)
+    at ce.each (http://localhost:3000/vendor/jquery.min.js:2:3129)
+    at ce.fn.init.each (http://localhost:3000/vendor/jquery.min.js:2:1594)
+    at e.replace (http://localhost:3000/vendor/owl.carousel.min.js:1:18546)
+    at e.initialize (http://localhost:3000/vendor/owl.carousel.min.js:1:5941)
+    at new e (http://localhost:3000/vendor/owl.carousel.min.js:1:624)
+    at HTMLDivElement.<anonymous> (http://localhost:3000/vendor/owl.carousel.min.js:1:23156)
+    at ce.each (http://localhost:3000/vendor/jquery.min.js:2:3129)
+    at ce.fn.init.each (http://localhost:3000/vendor/jquery.min.js:2:1594)
+    at a.fn.owlCarousel (http://localhost:3000/vendor/owl.carousel.min.js:1:23084)
+    at SiteScripts.useEffect.init.initCarousel (components/SiteScripts.tsx:86:27)
+    at SiteScripts.useEffect.init (components/SiteScripts.tsx:106:9)
+    at NodeList.forEach (<anonymous>)
+    at SiteScripts.useEffect.init (components/SiteScripts.tsx:104:78)
+  84 |         }
+  85 |         const c = sliderControls(controls);
+> 86 |         window.jQuery(el).owlCarousel({
+     |                           ^
+  87 |           loop: c.newsprk_slider_loop,
+  88 |           autoplay: c.newsprk_slider_autoplay,
+  89 |           nav: c.newsprk_slider_nav_show, (components/SiteScripts.tsx:263:33)
+ GET / 200 in 231ms (next.js: 43ms, application-code: 188ms)
+[browser] SiteScripts init failed: TypeError: a(...).find(...).andSelf is not a function
+    at c.<anonymous> (http://localhost:3000/vendor/owl.carousel.min.js:2:7592)
+    at HTMLDivElement.i (http://localhost:3000/vendor/jquery.min.js:2:86755)
+    at HTMLDivElement.dispatch (http://localhost:3000/vendor/jquery.min.js:2:40035)
+    at v.handle (http://localhost:3000/vendor/jquery.min.js:2:38006)
+    at Object.trigger (http://localhost:3000/vendor/jquery.min.js:2:70124)
+    at HTMLDivElement.<anonymous> (http://localhost:3000/vendor/jquery.min.js:2:70726)
+    at ce.each (http://localhost:3000/vendor/jquery.min.js:2:3129)
+    at ce.fn.init.each (http://localhost:3000/vendor/jquery.min.js:2:1594)
+    at ce.fn.init.trigger (http://localhost:3000/vendor/jquery.min.js:2:70701)
+    at e.trigger (http://localhost:3000/vendor/owl.carousel.min.js:1:22366)
+    at e.prepare (http://localhost:3000/vendor/owl.carousel.min.js:1:7263)
+    at e.<anonymous> (http://localhost:3000/vendor/owl.carousel.min.js:1:18580)
+    at HTMLDivElement.i (http://localhost:3000/vendor/jquery.min.js:2:86755)
+    at ce.each (http://localhost:3000/vendor/jquery.min.js:2:3129)
+    at ce.fn.init.each (http://localhost:3000/vendor/jquery.min.js:2:1594)
+    at e.replace (http://localhost:3000/vendor/owl.carousel.min.js:1:18546)
+    at e.initialize (http://localhost:3000/vendor/owl.carousel.min.js:1:5941)
+    at new e (http://localhost:3000/vendor/owl.carousel.min.js:1:624)
+    at HTMLDivElement.<anonymous> (http://localhost:3000/vendor/owl.carousel.min.js:1:23156)
+    at ce.each (http://localhost:3000/vendor/jquery.min.js:2:3129)
+    at ce.fn.init.each (http://localhost:3000/vendor/jquery.min.js:2:1594)
+    at a.fn.owlCarousel (http://localhost:3000/vendor/owl.carousel.min.js:1:23084)
+    at SiteScripts.useEffect.init.initCarousel (components/SiteScripts.tsx:86:27)
+    at SiteScripts.useEffect.init (components/SiteScripts.tsx:106:9)
+    at NodeList.forEach (<anonymous>)
+    at SiteScripts.useEffect.init (components/SiteScripts.tsx:104:78)
+  84 |         }
+  85 |         const c = sliderControls(controls);
+> 86 |         window.jQuery(el).owlCarousel({
+     |                           ^
+  87 |           loop: c.newsprk_slider_loop,
+  88 |           autoplay: c.newsprk_slider_autoplay,
+  89 |           nav: c.newsprk_slider_nav_show, (components/SiteScripts.tsx:263:33)
+[browser] SiteScripts init failed: TypeError: a(...).find(...).andSelf is not a function
+    at c.<anonymous> (http://localhost:3000/vendor/owl.carousel.min.js:2:7592)
+    at HTMLDivElement.i (http://localhost:3000/vendor/jquery.min.js:2:86755)
+    at HTMLDivElement.dispatch (http://localhost:3000/vendor/jquery.min.js:2:40035)
+    at v.handle (http://localhost:3000/vendor/jquery.min.js:2:38006)
+    at Object.trigger (http://localhost:3000/vendor/jquery.min.js:2:70124)
+    at HTMLDivElement.<anonymous> (http://localhost:3000/vendor/jquery.min.js:2:70726)
+    at ce.each (http://localhost:3000/vendor/jquery.min.js:2:3129)
+    at ce.fn.init.each (http://localhost:3000/vendor/jquery.min.js:2:1594)
+    at ce.fn.init.trigger (http://localhost:3000/vendor/jquery.min.js:2:70701)
+    at e.trigger (http://localhost:3000/vendor/owl.carousel.min.js:1:22366)
+    at e.prepare (http://localhost:3000/vendor/owl.carousel.min.js:1:7263)
+    at e.<anonymous> (http://localhost:3000/vendor/owl.carousel.min.js:1:18580)
+    at HTMLDivElement.i (http://localhost:3000/vendor/jquery.min.js:2:86755)
+    at ce.each (http://localhost:3000/vendor/jquery.min.js:2:3129)
+    at ce.fn.init.each (http://localhost:3000/vendor/jquery.min.js:2:1594)
+    at e.replace (http://localhost:3000/vendor/owl.carousel.min.js:1:18546)
+    at e.initialize (http://localhost:3000/vendor/owl.carousel.min.js:1:5941)
+    at new e (http://localhost:3000/vendor/owl.carousel.min.js:1:624)
+    at HTMLDivElement.<anonymous> (http://localhost:3000/vendor/owl.carousel.min.js:1:23156)
+    at ce.each (http://localhost:3000/vendor/jquery.min.js:2:3129)
+    at ce.fn.init.each (http://localhost:3000/vendor/jquery.min.js:2:1594)
+    at a.fn.owlCarousel (http://localhost:3000/vendor/owl.carousel.min.js:1:23084)
+    at SiteScripts.useEffect.init.initCarousel (components/SiteScripts.tsx:86:27)
+    at SiteScripts.useEffect.init (components/SiteScripts.tsx:106:9)
+    at NodeList.forEach (<anonymous>)
+    at SiteScripts.useEffect.init (components/SiteScripts.tsx:104:78)
+  84 |         }
+  85 |         const c = sliderControls(controls);
+> 86 |         window.jQuery(el).owlCarousel({
+     |                           ^
+  87 |           loop: c.newsprk_slider_loop,
+  88 |           autoplay: c.newsprk_slider_autoplay,
+  89 |           nav: c.newsprk_slider_nav_show, (components/SiteScripts.tsx:263:33)
+ GET / 200 in 258ms (next.js: 24ms, application-code: 234ms)
+ GET / 200 in 2.5s (next.js: 815ms, application-code: 1728ms)
+[browser] SiteScripts init failed: TypeError: a(...).find(...).andSelf is not a function
+    at c.<anonymous> (http://localhost:3000/vendor/owl.carousel.min.js:2:7592)
+    at HTMLDivElement.i (http://localhost:3000/vendor/jquery.min.js:2:86755)
+    at HTMLDivElement.dispatch (http://localhost:3000/vendor/jquery.min.js:2:40035)
+    at v.handle (http://localhost:3000/vendor/jquery.min.js:2:38006)
+    at Object.trigger (http://localhost:3000/vendor/jquery.min.js:2:70124)
+    at HTMLDivElement.<anonymous> (http://localhost:3000/vendor/jquery.min.js:2:70726)
+    at ce.each (http://localhost:3000/vendor/jquery.min.js:2:3129)
+    at ce.fn.init.each (http://localhost:3000/vendor/jquery.min.js:2:1594)
+    at ce.fn.init.trigger (http://localhost:3000/vendor/jquery.min.js:2:70701)
+    at e.trigger (http://localhost:3000/vendor/owl.carousel.min.js:1:22366)
+    at e.prepare (http://localhost:3000/vendor/owl.carousel.min.js:1:7263)
+    at e.<anonymous> (http://localhost:3000/vendor/owl.carousel.min.js:1:18580)
+    at HTMLDivElement.i (http://localhost:3000/vendor/jquery.min.js:2:86755)
+    at ce.each (http://localhost:3000/vendor/jquery.min.js:2:3129)
+    at ce.fn.init.each (http://localhost:3000/vendor/jquery.min.js:2:1594)
+    at e.replace (http://localhost:3000/vendor/owl.carousel.min.js:1:18546)
+    at e.initialize (http://localhost:3000/vendor/owl.carousel.min.js:1:5941)
+    at new e (http://localhost:3000/vendor/owl.carousel.min.js:1:624)
+    at HTMLDivElement.<anonymous> (http://localhost:3000/vendor/owl.carousel.min.js:1:23156)
+    at ce.each (http://localhost:3000/vendor/jquery.min.js:2:3129)
+    at ce.fn.init.each (http://localhost:3000/vendor/jquery.min.js:2:1594)
+    at a.fn.owlCarousel (http://localhost:3000/vendor/owl.carousel.min.js:1:23084)
+    at SiteScripts.useEffect.init.initCarousel (components/SiteScripts.tsx:86:27)
+    at SiteScripts.useEffect.init (components/SiteScripts.tsx:106:9)
+    at NodeList.forEach (<anonymous>)
+    at SiteScripts.useEffect.init (components/SiteScripts.tsx:104:78)
+  84 |         }
+  85 |         const c = sliderControls(controls);
+> 86 |         window.jQuery(el).owlCarousel({
+     |                           ^
+  87 |           loop: c.newsprk_slider_loop,
+  88 |           autoplay: c.newsprk_slider_autoplay,
+  89 |           nav: c.newsprk_slider_nav_show, (components/SiteScripts.tsx:263:33)
+[browser] SiteScripts init failed: TypeError: a(...).find(...).andSelf is not a function
+    at c.<anonymous> (http://localhost:3000/vendor/owl.carousel.min.js:2:7592)
+    at HTMLDivElement.i (http://localhost:3000/vendor/jquery.min.js:2:86755)
+    at HTMLDivElement.dispatch (http://localhost:3000/vendor/jquery.min.js:2:40035)
+    at v.handle (http://localhost:3000/vendor/jquery.min.js:2:38006)
+    at Object.trigger (http://localhost:3000/vendor/jquery.min.js:2:70124)
+    at HTMLDivElement.<anonymous> (http://localhost:3000/vendor/jquery.min.js:2:70726)
+    at ce.each (http://localhost:3000/vendor/jquery.min.js:2:3129)
+    at ce.fn.init.each (http://localhost:3000/vendor/jquery.min.js:2:1594)
+    at ce.fn.init.trigger (http://localhost:3000/vendor/jquery.min.js:2:70701)
+    at e.trigger (http://localhost:3000/vendor/owl.carousel.min.js:1:22366)
+    at e.prepare (http://localhost:3000/vendor/owl.carousel.min.js:1:7263)
+    at e.<anonymous> (http://localhost:3000/vendor/owl.carousel.min.js:1:18580)
+    at HTMLDivElement.i (http://localhost:3000/vendor/jquery.min.js:2:86755)
+    at ce.each (http://localhost:3000/vendor/jquery.min.js:2:3129)
+    at ce.fn.init.each (http://localhost:3000/vendor/jquery.min.js:2:1594)
+    at e.replace (http://localhost:3000/vendor/owl.carousel.min.js:1:18546)
+    at e.initialize (http://localhost:3000/vendor/owl.carousel.min.js:1:5941)
+    at new e (http://localhost:3000/vendor/owl.carousel.min.js:1:624)
+    at HTMLDivElement.<anonymous> (http://localhost:3000/vendor/owl.carousel.min.js:1:23156)
+    at ce.each (http://localhost:3000/vendor/jquery.min.js:2:3129)
+    at ce.fn.init.each (http://localhost:3000/vendor/jquery.min.js:2:1594)
+    at a.fn.owlCarousel (http://localhost:3000/vendor/owl.carousel.min.js:1:23084)
+    at SiteScripts.useEffect.init.initCarousel (components/SiteScripts.tsx:86:27)
+    at SiteScripts.useEffect.init (components/SiteScripts.tsx:106:9)
+    at NodeList.forEach (<anonymous>)
+    at SiteScripts.useEffect.init (components/SiteScripts.tsx:104:78)
+  84 |         }
+  85 |         const c = sliderControls(controls);
+> 86 |         window.jQuery(el).owlCarousel({
+     |                           ^
+  87 |           loop: c.newsprk_slider_loop,
+  88 |           autoplay: c.newsprk_slider_autoplay,
+  89 |           nav: c.newsprk_slider_nav_show, (components/SiteScripts.tsx:263:33)
+[?25h
