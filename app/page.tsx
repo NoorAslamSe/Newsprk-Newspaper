@@ -12,14 +12,9 @@ const MENU_SLOT_IDS = [
   5280, 5284, 5286, 5281, 5272, 5291, 5289, 5274, 5282, 5285, 5287,
 ];
 
-/** Escape text for safe insertion into HTML attribute/text content. */
-function escapeHtml(value: string): string {
-  return value
-    .replace(/&/g, "&amp;")
-    .replace(/"/g, "&quot;")
-    .replace(/</g, "&lt;")
-    .replace(/>/g, "&gt;");
-}
+// Note: titles are admin-provided HTML (as elsewhere on the site) and may
+// contain entity references such as `&#8216;`; they're inserted raw so the
+// entity renders as the intended character instead of being double-encoded.
 
 /**
  * Renders the header "Posts" dropdown menus (desktop + mobile) from MongoDB.
@@ -52,7 +47,7 @@ async function buildPostsMenu(html: string): Promise<string> {
   const desktopItems = posts
     .map(
       (p, i) =>
-        `\t<li id="menu-item-${itemId(i)}" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-${itemId(i)} nav-item"><a href="/${p.slug}/" class=" dropdown-item">${escapeHtml(p.title)}</a>\t`
+        `\t<li id="menu-item-${itemId(i)}" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-${itemId(i)} nav-item"><a href="/${p.slug}/" class=" dropdown-item">${titleMarkup(p.title)}</a>\t`
     )
     .join("");
 
@@ -70,7 +65,7 @@ async function buildPostsMenu(html: string): Promise<string> {
   const mobileItems = posts
     .map(
       (p, i) =>
-        `\t\t<li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-${itemId(i)}"><a href="/${p.slug}/">${escapeHtml(p.title)}</a></li>\n`
+        `\t\t<li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-${itemId(i)}"><a href="/${p.slug}/">${titleMarkup(p.title)}</a></li>\n`
     )
     .join("");
 
