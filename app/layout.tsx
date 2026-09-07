@@ -1,6 +1,17 @@
 import type { Metadata } from "next";
 import { Inter, Heebo } from "next/font/google";
+import { TranslationsProvider } from "@/components/providers/TranslationsProvider";
+import enMessages from "@/messages/en.json";
+import esMessages from "@/messages/es.json";
+import arMessages from "@/messages/ar.json";
+import { DEPLOYMENT_LOCALE, LOCALE_HTML_LANG, isRtl } from "@/lib/i18n";
 import "./globals.css";
+
+const LOCALE_MESSAGES: Record<string, typeof enMessages> = {
+  en: enMessages,
+  es: esMessages,
+  ar: arMessages,
+};
 
 const inter = Inter({
   variable: "--font-inter",
@@ -26,8 +37,13 @@ export const metadata: Metadata = {
 };
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {
+  const locale = DEPLOYMENT_LOCALE;
   return (
-    <html lang="en-US" className={`${inter.variable} ${heebo.variable}`}>
+    <html
+      lang={LOCALE_HTML_LANG[locale]}
+      dir={isRtl(locale) ? "rtl" : "ltr"}
+      className={`${inter.variable} ${heebo.variable}`}
+    >
       <head>
         {/* Reference CSS cascade — exact order from ref-static index.htm <head> */}
         <link rel="stylesheet" href="/assets/css/plugins/widgets.min.css" />
@@ -106,7 +122,9 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
           href="/plugins/element-ready/assets/css/widgets/navigation.css"
         />
       </head>
-      <body className="home page-template page-template-page-templates page-template-homepage page-template-page-templateshomepage-php page page-id-6957 theme-newsprk woocommerce-no-js sidebar-active woocommerce-active elementor-default elementor-kit-5487 elementor-page elementor-page-6957">{children}</body>
+      <body className="home page-template page-template-page-templates page-template-homepage page-template-page-templateshomepage-php page page-id-6957 theme-newsprk woocommerce-no-js sidebar-active woocommerce-active elementor-default elementor-kit-5487 elementor-page elementor-page-6957">
+        <TranslationsProvider locale={locale} messages={LOCALE_MESSAGES[locale]}>{children}</TranslationsProvider>
+      </body>
     </html>
   );
 }

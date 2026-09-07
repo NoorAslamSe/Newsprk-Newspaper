@@ -1,0 +1,59 @@
+[
+  {
+    "slug": "david-hall",
+    "name": "David Hall",
+    "role": "Senior Editor",
+    "bio": "David Hall is a senior editor covering business, technology, and lifestyle. With over 15 years of experience in digital journalism, he brings insightful analysis to every story.",
+    "avatar": "/images/authors/david-hall.jpg",
+    "credentials": {
+      "experience": "15+ years in digital journalism",
+      "specializations": ["Technology", "Business", "Consumer Electronics"],
+      "education": "M.A. Journalism, Columbia University",
+      "previousPublications": ["TechCrunch", "The Verge", "Wired"],
+      "linkedin": "https://linkedin.com/in/davidhall",
+      "verified": true
+    },
+    "social": {
+      "twitter": "https://twitter.com/davidhall",
+      "linkedin": "https://linkedin.com/in/davidhall"
+    }
+  },
+  {
+    "slug": "sarah-johnson",
+    "name": "Sarah Johnson",
+    "role": "Travel & Lifestyle Writer",
+    "bio": "Sarah Johnson covers travel, lifestyle, and culture. She has visited over 40 countries and brings a unique perspective to global stories.",
+    "avatar": "/images/authors/sarah-johnson.jpg",
+    "credentials": {
+      "experience": "12+ years in travel journalism",
+      "specializations": ["Travel", "Lifestyle", "Culture"],
+      "education": "B.A. International Relations, NYU",
+      "previousPublications": ["Condé Nast Traveler", "Travel + Leisure", "Lonely Planet"],
+      "linkedin": "https://linkedin.com/in/sarahjohnson",
+      "verified": true
+    },
+    "social": {
+      "twitter": "https://twitter.com/sarahjohnson",
+      "instagram": "https://instagram.com/sarahjohnson"
+    }
+  },
+  {
+    "slug": "mike-chen",
+    "name": "Mike Chen",
+    "role": "Technology Reporter",
+    "bio": "Mike Chen is a technology reporter covering gadgets, AI, and the future of innovation. Previously at TechCrunch and The Verge.",
+    "avatar": "/images/authors/mike-chen.jpg",
+    "credentials": {
+      "experience": "10+ years in tech journalism",
+      "specializations": ["AI", "Gadgets", "Software", "Startups"],
+      "education": "B.S. Computer Science, MIT",
+      "previousPublications": ["TechCrunch", "The Verge", "Ars Technica"],
+      "linkedin": "https://linkedin.com/in/mikechen",
+      "verified": true
+    },
+    "social": {
+      "twitter": "https://twitter.com/mikechen",
+      "linkedin": "https://linkedin.com/in/mikechen"
+    }
+  }
+]

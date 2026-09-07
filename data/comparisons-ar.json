@@ -1,0 +1,1490 @@
+[
+  {
+    "slug": "ar-iphone-15-vs-samsung-s24-ultra",
+    "title": "آيفون 15 برو ماكس vs سامسونج جالكسي S24 ألترا",
+    "excerpt": "عملاقا الهواتف الذكية يتنافسان في السوق العربي. نقارن الكاميرا والأداء وعمر البطارية والميزات الذكية.",
+    "category": "technology",
+    "categoryLabel": "التكنولوجيا",
+    "author": "nouf-almalki",
+    "authorName": "نوف المالكي",
+    "date": "2025-07-20T10:00:00+00:00",
+    "readTime": 12,
+    "image": "https://images.unsplash.com/photo-1592899677977-9c10ca588bbd?w=860&h=573&fit=crop",
+    "featured": true,
+    "tags": [
+      "هواتف",
+      "ابل",
+      "سامسونج",
+      "تقنية",
+      "مقارنة"
+    ],
+    "views": 48200,
+    "status": "published",
+    "content_type": "comparison",
+    "entity_A": {
+      "name": "iPhone 15 Pro Max",
+      "image": "https://images.unsplash.com/photo-1695048133142-1a20484d2569?w=400&h=400&fit=crop",
+      "priceRange": "4,799 - 6,499 ريال",
+      "offerId": "apple-iphone-15-pro-max-sa"
+    },
+    "entity_B": {
+      "name": "Samsung Galaxy S24 Ultra",
+      "image": "https://images.unsplash.com/photo-1610945265064-0e34e5519bbf?w=400&h=400&fit=crop",
+      "priceRange": "5,099 - 5,799 ريال",
+      "offerId": "samsung-galaxy-s24-ultra-sa"
+    },
+    "verdict_winner": "A",
+    "spec_comparison_matrix": [
+      {
+        "feature": "الشاشة",
+        "val_A": "6.7 بوصة OLED، 120Hz",
+        "val_B": "6.8 بوصة AMOLED، 120Hz",
+        "winner": "tie"
+      },
+      {
+        "feature": "المعالج",
+        "val_A": "A17 Pro (3nm)",
+        "val_B": "Snapdragon 8 Gen 3",
+        "winner": "A"
+      },
+      {
+        "feature": "الرام",
+        "val_A": "8 جيجا",
+        "val_B": "12 جيجا",
+        "winner": "B"
+      },
+      {
+        "feature": "الكاميرا",
+        "val_A": "48MP رباعية",
+        "val_B": "200MP رباعية",
+        "winner": "B"
+      },
+      {
+        "feature": "البطارية",
+        "val_A": "29 ساعة مشاهدة",
+        "val_B": "30 ساعة مشاهدة",
+        "winner": "B"
+      },
+      {
+        "feature": "الشحن",
+        "val_A": "27 واط سلكي، MagSafe",
+        "val_B": "45 واط سلكي",
+        "winner": "B"
+      },
+      {
+        "feature": "الذكاء الاصطناعي",
+        "val_A": "Apple Intelligence (محدود)",
+        "val_B": "Galaxy AI (شامل)",
+        "winner": "B"
+      },
+      {
+        "feature": "الوزن",
+        "val_A": "221 جرام",
+        "val_B": "232 جرام",
+        "winner": "A"
+      },
+      {
+        "feature": "قلم S Pen",
+        "val_A": "غير مرفق",
+        "val_B": "مضمون",
+        "winner": "B"
+      }
+    ],
+    "pros_cons_A": [
+      "أفضل فيديو مع وضع Action",
+      "تكامل سلس مع منتجات Apple",
+      "دعم برنامج أطول",
+      "تصميم أخف وأكثر ملاءمة",
+      "خصوصية متطورة"
+    ],
+    "pros_cons_B": [
+      "كاميرا أكثر تنوعاً بدقة 200MP",
+      "قلم S Pen مدمج للإنتاجية",
+      "شحن أسرع",
+      "ميزات Galaxy AI أكثر نضجاً",
+      "شاشة أكبر مع حواف أقل"
+    ],
+    "when_loser_wins": [
+      "أنت مستخدم مخلص لمنتجات Apple (Mac، iPad، AirPods)",
+      "تفضل تصوير الفيديو على تنوع الصور",
+      "تريد هاتفاً أخف وأكثر حملاً",
+      "تريد دعم تحديثات أطول",
+      "تقدر الخصوصية والمعالجة على الجهاز"
+    ],
+    "page_class": "money",
+    "structural_blocks": {
+      "question_answered": "iPhone 15 Pro Max يفوز لمستخدمي Apple ومصوري الفيديو. Galaxy S24 Ultra يفوز لتنوع الكاميرا والميزات الذكية.",
+      "context": "مثلث التنافس بين Apple وسامسونج يستمر في السوق العربي بكل شراسة. كلا الهاتفين يقدمان أفضل ما في التكنولوجيا المحمولة.",
+      "comparison": "Galaxy S24 Ultra يتفوق المواصفات: رام أعلى، كاميرا أعلى، شحن أسرع، وقلم S Pen. iPhone 15 Pro Max يرد بفيديو أفضل ووزن أخف وتكامل أفضل مع منتجات Apple.",
+      "action": "اختر iPhone 15 Pro Max إذا كنت في منظومة Apple. اختر Galaxy S24 Ultra لتنوع الكاميرا والميزات الذكية."
+    },
+    "last_verified_date": "2025-07-15T00:00:00Z",
+    "refresh_due_date": "2026-01-15T00:00:00Z",
+    "reviewer": "نوف المالكي",
+    "methodology_ref": "trendsposts-methodology-v1",
+    "affiliate_offer_ids": [
+      "apple-iphone-15-pro-max-sa",
+      "samsung-galaxy-s24-ultra-sa"
+    ],
+    "seo_metadata": {
+      "metaTitle": "iPhone 15 Pro Max vs Samsung Galaxy S24 Ultra — مقارنة شاملة 2025",
+      "metaDescription": "مقارنة iPhone 15 Pro Max وSamsung Galaxy S24 Ultra: الكاميرا، الأداء، البطارية والميزات الذكية في السوق العربي.",
+      "ogImage": "https://images.unsplash.com/photo-1592899677977-9c10ca588bbd?w=1200&h=630&fit=crop"
+    },
+    "locale": "ar",
+    "hreflang_group_id": "ar-iphone-15-vs-samsung-s24-ultra"
+  },
+  {
+    "slug": "ar-tesla-model-y-vs-byd-seal-gulf",
+    "title": "تسلا موديل Y vs بي واي دي سيل: أيهما في الخليج؟",
+    "excerpt": "السيارات الكهربائية في مناخ الخليج الحار. نقارن الأداء والمدى وشبكة الشحن والسعر.",
+    "category": "technology",
+    "categoryLabel": "التكنولوجيا",
+    "author": "turki-alotaibi",
+    "authorName": "تركي العتيبي",
+    "date": "2025-07-18T09:00:00+00:00",
+    "readTime": 11,
+    "image": "https://images.unsplash.com/photo-1560958089-b8a1929cea89?w=860&h=573&fit=crop",
+    "featured": true,
+    "tags": [
+      "سيارات كهربائية",
+      "تسلا",
+      "بي واي دي",
+      "خليج",
+      "مقارنة"
+    ],
+    "views": 32100,
+    "status": "published",
+    "content_type": "comparison",
+    "entity_A": {
+      "name": "Tesla Model Y",
+      "image": "https://images.unsplash.com/photo-1560958089-b8a1929cea89?w=400&h=400&fit=crop",
+      "priceRange": "169,900 - 209,900 ريال",
+      "offerId": "tesla-model-y-sa"
+    },
+    "entity_B": {
+      "name": "BYD Seal",
+      "image": "https://images.unsplash.com/photo-1549317661-bd32c8ce0abb?w=400&h=400&fit=crop",
+      "priceRange": "129,900 - 169,900 ريال",
+      "offerId": "byd-seal-sa"
+    },
+    "verdict_winner": "A",
+    "spec_comparison_matrix": [
+      {
+        "feature": "المدى",
+        "val_A": "500 كم",
+        "val_B": "550 كم",
+        "winner": "B"
+      },
+      {
+        "feature": "السعر",
+        "val_A": "169,900 ريال+",
+        "val_B": "129,900 ريال+",
+        "winner": "B"
+      },
+      {
+        "feature": "شبكة الشحن",
+        "val_A": "Supercharger (واسعة)",
+        "val_B": "شحنة عامة + منزلية",
+        "winner": "A"
+      },
+      {
+        "feature": "الأداء في الحرارة",
+        "val_A": "مقبول",
+        "val_B": "ممتاز",
+        "winner": "B"
+      },
+      {
+        "feature": "Autopilot",
+        "val_A": "شامل + FSD اختياري",
+        "val_B": "أساسي",
+        "winner": "A"
+      },
+      {
+        "feature": "الضمان",
+        "val_A": "4 سنوات / 80,000 كم",
+        "val_B": "6 سنوات / 150,000 كم",
+        "winner": "B"
+      },
+      {
+        "feature": "البطارية في الحر",
+        "val_A": "تتأثر بشكل ملحوظ",
+        "val_B": "أكثر استقراراً",
+        "winner": "B"
+      }
+    ],
+    "pros_cons_A": [
+      "شبكة Supercharger واسعة في الخليج",
+      "Autopilot أكثر تطوراً",
+      "تحديثات باستمرار عبر الإنترنت",
+      "مجتمع قوي من المالكين",
+      "سمعة عالمية موثوقة"
+    ],
+    "pros_cons_B": [
+      "سعر أقل بـ 40,000 ريال",
+      "أداء أفضل في الحرارة العالية",
+      "مدى أطول (550 كم)",
+      "ضمان أطول (6 سنوات)",
+      "بطارية أكثر استقراراً في الصحراء"
+    ],
+    "when_loser_wins": [
+      "الميزانية هي أولويتك — BYD أرخص بـ 40,000 ريال",
+      "تسافر كثيراً وتريد مدى أطول",
+      "تعيش في منطقة حارة جداً وتحتاج أداء ممتاز في الحر",
+      "تريد ضماناً أطول وأشمل",
+      "لا تحتاج ميزات Autopilot المتقدمة"
+    ],
+    "page_class": "money",
+    "structural_blocks": {
+      "question_answered": "Tesla Model Y يفوز بشبكة الشحن والتقنية. BYD Seal يفوز بالسعر والأداء في الحرارة والمدى.",
+      "context": "السيارات الكهربائية تنتشر في الخليج بسرعة رغم التحديات المناخية. تسلا وBYD هما الخياران الرئيسيان للمستهلكين.",
+      "comparison": "Tesla تتفوق بشبكة الشحن وAutopilot. BYD تتفوق بالسعر والأداء في الحرارة والمدى. لمستخدمي الخليج الحار، BYD خيار عملي أكثر.",
+      "action": "اختر Tesla لشبكة الشحن والتقنية. اختر BYD للسعر والأداء في الحرارة."
+    },
+    "last_verified_date": "2025-07-15T00:00:00Z",
+    "refresh_due_date": "2026-01-15T00:00:00Z",
+    "reviewer": "تركي العتيبي",
+    "methodology_ref": "trendsposts-methodology-v1",
+    "affiliate_offer_ids": [
+      "tesla-model-y-sa",
+      "byd-seal-sa"
+    ],
+    "seo_metadata": {
+      "metaTitle": "Tesla Model Y vs BYD Seal — مقارنة في الخليج العربي 2025",
+      "metaDescription": "تسلا موديل Y مقابل بي واي دي سيل: أداء في الحرارة، مدى، شبكة شحن وسعر في دول الخليج.",
+      "ogImage": "https://images.unsplash.com/photo-1560958089-b8a1929cea89?w=1200&h=630&fit=crop"
+    },
+    "locale": "ar",
+    "hreflang_group_id": "ar-tesla-model-y-vs-byd-seal-gulf"
+  },
+  {
+    "slug": "ar-chatgpt-vs-claude-smart-assistant",
+    "title": "ChatGPT Plus vs Claude Pro: أيهما أفضل مساعد ذكي بالعربي؟",
+    "excerpt": "مساعدات الذكاء الاصطناعي تتنافس لخدمة المستخدم العربي. نقارن الدعم اللغوي والتفكير والكتابة.",
+    "category": "technology",
+    "categoryLabel": "التكنولوجيا",
+    "author": "abdulrahman-alfahad",
+    "authorName": "عبدالرحمن الفهد",
+    "date": "2025-07-15T10:00:00+00:00",
+    "readTime": 9,
+    "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=860&h=573&fit=crop",
+    "featured": true,
+    "tags": [
+      "ذكاء اصطناعي",
+      "chatgpt",
+      "claude",
+      "مساعد ذكي",
+      "مقارنة"
+    ],
+    "views": 35800,
+    "status": "published",
+    "content_type": "comparison",
+    "entity_A": {
+      "name": "ChatGPT Plus",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=400&h=400&fit=crop",
+      "priceRange": "$20/شهرياً",
+      "offerId": "openai-chatgpt-plus-ar"
+    },
+    "entity_B": {
+      "name": "Claude Pro",
+      "image": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=400&h=400&fit=crop",
+      "priceRange": "$20/شهرياً",
+      "offerId": "anthropic-claude-pro-ar"
+    },
+    "verdict_winner": "B",
+    "spec_comparison_matrix": [
+      {
+        "feature": "السعر",
+        "val_A": "$20/شهر",
+        "val_B": "$20/شهر",
+        "winner": "tie"
+      },
+      {
+        "feature": "الدعم العربي",
+        "val_A": "جيد جداً",
+        "val_B": "ممتاز",
+        "winner": "B"
+      },
+      {
+        "feature": "الكتابة الإبداعية",
+        "val_A": "جيد",
+        "val_B": "ممتاز",
+        "winner": "B"
+      },
+      {
+        "feature": "البحث على الويب",
+        "val_A": "متوفر فوراً",
+        "val_B": "محدود",
+        "winner": "A"
+      },
+      {
+        "feature": "توليد الصور",
+        "val_A": "DALL-E 3 مضمّن",
+        "val_B": "غير متوفر",
+        "winner": "A"
+      },
+      {
+        "feature": "تحليل النصوص الطويلة",
+        "val_A": "جيد",
+        "val_B": "ممتاز (200K)",
+        "winner": "B"
+      },
+      {
+        "feature": "التفكير المنطقي",
+        "val_A": "جيد جداً",
+        "val_B": "ممتاز",
+        "winner": "B"
+      },
+      {
+        "feature": "الإضافة والإضافات",
+        "val_A": "أكثر من 100 إضافة",
+        "val_B": "تكامل MCP",
+        "winner": "A"
+      }
+    ],
+    "pros_cons_A": [
+      "بحث فوري على الويب للمعلومات الحديثة",
+      "توليد صور مضمّن",
+      "مجتمع أكبر ودعم أكثر",
+      "إضافات متنوعة لتوسيع القدرات",
+      "تطبيق موبايل متطور"
+    ],
+    "pros_cons_B": [
+      "كتابة عربية أكثر سلاسة وطبيعية",
+      "تحليل أدق للنصوص الطويلة",
+      "تفكير منطقي أقوى",
+      "اتباع أفضل للتعليمات المعقدة",
+      "Artifacts للمعاينة التفاعلية"
+    ],
+    "when_loser_wins": [
+      "تحتاج بحث فوري على الإنترنت",
+      "تريد توليد صور مع المحادثة",
+      "تحتاج إضافات وتكاملات متنوعة",
+      "تستخدم التطبيق على الموبايل كثيراً",
+      "تفضل خيارات أكثر من جودة واحدة"
+    ],
+    "page_class": "money",
+    "structural_blocks": {
+      "question_answered": "Claude Pro يفوز بالكتابة العربية والتفكير المنطقي. ChatGPT يفوز بالبحث وتوليد الصور والإضافات.",
+      "context": "مساعدات الذكاء الاصطناعي تتطور بسرعة لخدمة المستخدم العربي. كلاهما يدعم اللغة العربية لكن بأداء مختلف.",
+      "comparison": "Claude يتفوق في اللغة العربية الطبيعية والتحليل العميق. ChatGPT يتفوق في الميزات والبحث والصور. للكتابة والتحليل، Claude أفضل. للاستخدام اليومي المتنوع، ChatGPT أفضل.",
+      "action": "اختر Claude للكتابة العربية والتحليل العميق. اختر ChatGPT للاستخدام اليومي المتنوع والبحث."
+    },
+    "last_verified_date": "2025-07-10T00:00:00Z",
+    "refresh_due_date": "2025-10-10T00:00:00Z",
+    "reviewer": "عبدالرحمن الفهد",
+    "methodology_ref": "trendsposts-methodology-v1",
+    "affiliate_offer_ids": [
+      "openai-chatgpt-plus-ar",
+      "anthropic-claude-pro-ar"
+    ],
+    "seo_metadata": {
+      "metaTitle": "ChatGPT Plus vs Claude Pro — أيهما أفضل مساعد ذكي بالعربي؟",
+      "metaDescription": "مقارنة ChatGPT Plus وClaude Pro: الدعم العربي، الكتابة، التفكير والبحث. أيهما أفضل للاستخدام العربي؟",
+      "ogImage": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=1200&h=630&fit=crop"
+    },
+    "locale": "ar",
+    "hreflang_group_id": "ar-chatgpt-vs-claude-smart-assistant"
+  },
+  {
+    "slug": "ar-stc-vs-zain-telecom-services",
+    "title": "stc vs Zain: أيهما أفضل مشغل اتصالات في الخليج؟",
+    "excerpt": "مشغلو الاتصالات يتنافسان بالخدمات والأسعار. نقارن الشبكة والتغطية والقيمة.",
+    "category": "technology",
+    "categoryLabel": "التكنولوجيا",
+    "author": "sultan-aldosari",
+    "authorName": "سلطان الدوسري",
+    "date": "2025-07-12T09:00:00+00:00",
+    "readTime": 8,
+    "image": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=860&h=573&fit=crop",
+    "featured": false,
+    "tags": [
+      "اتصالات",
+      "stc",
+      "zain",
+      "شبكة",
+      "خليج"
+    ],
+    "views": 22400,
+    "status": "published",
+    "content_type": "comparison",
+    "entity_A": {
+      "name": "STC (الاتصالات السعودية)",
+      "image": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=400&h=400&fit=crop",
+      "priceRange": "باقات من 99 ريال",
+      "offerId": "stc-bundles-sa"
+    },
+    "entity_B": {
+      "name": "Zain",
+      "image": "https://images.unsplash.com/photo-1598327105666-5b89351aff97?w=400&h=400&fit=crop",
+      "priceRange": "باقات من 89 ريال",
+      "offerId": "zain-bundles-sa"
+    },
+    "verdict_winner": "A",
+    "spec_comparison_matrix": [
+      {
+        "feature": "تغطية الشبكة",
+        "val_A": "99% من المناطق",
+        "val_B": "95% من المناطق",
+        "winner": "A"
+      },
+      {
+        "feature": "سرعة الإنترنت",
+        "val_A": "حتى 300 ميجا",
+        "val_B": "حتى 200 ميجا",
+        "winner": "A"
+      },
+      {
+        "feature": "الأسعار",
+        "val_A": "من 99 ريال",
+        "val_B": "من 89 ريال",
+        "winner": "B"
+      },
+      {
+        "feature": "خدمات القيمة المضافة",
+        "val_A": "STC TV، نيوم",
+        "val_B": "Zain TV، تطبيقات متنوعة",
+        "winner": "tie"
+      },
+      {
+        "feature": "خدمة العملاء",
+      "val_A": "جيدة",
+      "val_B": "جيدة",
+        "winner": "tie"
+      },
+      {
+        "feature": "الفروع",
+        "val_A": "أكثر من 500 فرع",
+        "val_B": "أكثر من 300 فرع",
+        "winner": "A"
+      },
+      {
+        "feature": "التجوال الدولي",
+        "val_A": "باقات متنوعة",
+        "val_B": "باقات متنوعة",
+        "winner": "tie"
+      }
+    ],
+    "pros_cons_A": [
+      "أفضل تغطية في المملكة",
+      "سرعة إنترنت أعلى",
+      "خدمات رقمية متنوعة",
+      "أكثر من 500 فرع لخدمة العملاء",
+      "شراكات استراتيجية قوية"
+    ],
+    "pros_cons_B": [
+      "أسعار أقل قليلاً",
+      "باقات مرنة",
+      "تطبيق Zain متطور",
+      "عروض ترحيبية جذابة",
+      "تغطية جيدة في المناطق الحضرية"
+    ],
+    "when_loser_wins": [
+      "تبحث عن الأقل سعراً",
+      "تعيش في منطقة حضرية مع تغطية جيدة",
+      "تريد عروضاً ترحيبية جذابة",
+      "تفضل تطبيق موبايل متطور",
+      "لا تحتاج أعلى سرعة متوفرة"
+    ],
+    "page_class": "money",
+    "structural_blocks": {
+      "question_answered": "STC يفوز بالتغطية والسرعة. Zain يفوز بالسعر والأمان.",
+      "context": "STC وZain هما أكبر مشغلي اتصالات في المنطقة. كلاهما يقدم باقات متنوعة لكن STC يتفوق في البنية التحتية.",
+      "comparison": "STC يتفوق بالتغطية والسرعة والبنية التحتية. Zain يرد بأسعار أقل ومرونة أكثر. لمستخدمي المناطق النائية، STC خيار أفضل. لمستخدمي المدن، Zain يكفي.",
+      "action": "اختر STC لأفضل تغطية وسرعة. اختر Zain للسعر الأقل والمرونة."
+    },
+    "last_verified_date": "2025-07-08T00:00:00Z",
+    "refresh_due_date": "2026-01-08T00:00:00Z",
+    "reviewer": "سلطان الدوسري",
+    "methodology_ref": "trendsposts-methodology-v1",
+    "affiliate_offer_ids": [
+      "stc-bundles-sa",
+      "zain-bundles-sa"
+    ],
+    "seo_metadata": {
+      "metaTitle": "STC vs Zain — أيهما أفضل مشغل اتصالات في الخليج؟",
+      "metaDescription": "مقارنة STC وZain: تغطية الشبكة، الأسعار، السرعة والخدمات. أيهما أفضل لاحتياجاتك؟",
+      "ogImage": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=1200&h=630&fit=crop"
+    },
+    "locale": "ar",
+    "hreflang_group_id": "ar-stc-vs-zain-telecom-services"
+  },
+  {
+    "slug": "ar-ps5-vs-xbox-series-x-gulf",
+    "title": "PlayStation 5 vs Xbox Series X في الخليج",
+    "excerpt": "أجهزة الألعاب الجديدة وصلت للخليج. نقارن السعر والألعاب والخدمات والقيمة.",
+    "category": "entertainment",
+    "categoryLabel": "الترفيه",
+    "author": "faisal-alenezi",
+    "authorName": "فيصل العنيزي",
+    "date": "2025-07-10T10:00:00+00:00",
+    "readTime": 9,
+    "image": "https://images.unsplash.com/photo-1606144042614-b2417e99c4e3?w=860&h=573&fit=crop",
+    "featured": false,
+    "tags": [
+      "ألعاب",
+      "بلاي ستيشن",
+      "اكس بوكس",
+      "خليج",
+      "مقارنة"
+    ],
+    "views": 27800,
+    "status": "published",
+    "content_type": "comparison",
+    "entity_A": {
+      "name": "PlayStation 5",
+      "image": "https://images.unsplash.com/photo-1606144042614-b2417e99c4e3?w=400&h=400&fit=crop",
+      "priceRange": "1,999 - 2,399 ريال",
+      "offerId": "ps5-gulf"
+    },
+    "entity_B": {
+      "name": "Xbox Series X",
+      "image": "https://images.unsplash.com/photo-1621259182978-fbf93132d53d?w=400&h=400&fit=crop",
+      "priceRange": "1,999 ريال + Game Pass",
+      "offerId": "xbox-series-x-gulf"
+    },
+    "verdict_winner": "A",
+    "spec_comparison_matrix": [
+      {
+        "feature": "السعر",
+        "val_A": "1,999-2,399 ريال",
+        "val_B": "1,999 ريال",
+        "winner": "B"
+      },
+      {
+        "feature": "الألعاب الحصرية",
+        "val_A": "Spider-Man, God of War",
+        "val_B": "Starfield, Halo",
+        "winner": "A"
+      },
+      {
+        "feature": "Game Pass",
+        "val_B": "شامل مئات الألعاب",
+        "val_A": "PS Plus (أقل قيمة)",
+        "winner": "B"
+      },
+      {
+        "feature": "التوفر في الخليج",
+        "val_A": "متوفر في كل المتاجر",
+        "val_B": "محدود في بعض الدول",
+        "winner": "A"
+      },
+      {
+        "feature": "Realidad افتراضية",
+        "val_A": "PSVR2 متاح",
+        "val_B": "غير متوفر",
+        "winner": "A"
+      },
+      {
+        "feature": "التخزين",
+        "val_A": "825 GB SSD",
+        "val_B": "1 TB SSD",
+        "winner": "B"
+      }
+    ],
+    "pros_cons_A": [
+      "ألعاب حصرية أفضل",
+      "DualSense للتجربة الغامرة",
+      "متوفر في كل متاجر الخليج",
+      "PSVR2 للواقع الافتراضي",
+      "تجربة مستخدم مصقولة"
+    ],
+    "pros_cons_B": [
+      "Game Pass يوفر الكثير على المدى الطويل",
+      "تخزين أكبر",
+      "cloud gaming مضمّن",
+      "توافق أفضل مع الألعاب القديمة",
+      "سعر أقل قليلاً"
+    ],
+    "when_loser_wins": [
+      "تريد أفضل قيمة مع Game Pass",
+      "لديك مكتبة كبيرة من ألعاب Xbox القديمة",
+      "تفضل cloud gaming",
+      "تريد تخزيناً أكبر",
+      "إكس بوكس أفضل توفر في بلدك"
+    ],
+    "page_class": "money",
+    "structural_blocks": {
+      "question_answered": "PS5 يفوز بالألعاب الحصرية والتجربة. Xbox يفوز بـ Game Pass والقيمة.",
+      "context": "جهازا الألعاب الجديدة وصلا للخليج بأسعار عالية. كلاهما يقدم تجربة فريدة.",
+      "comparison": "PS5 يتفوق بالألعاب الحصرية والتكنولوجيا. Xbox يcounter بـ Game Pass والقيمة. للـ gamers العاديين، Xbox+Game Pass أفضل قيمة. للمتحمسين، PS5 لا يُضاهى.",
+      "action": "اختر PS5 للألعاب الحصرية والتجربة. اختر Xbox لـ Game Pass والقيمة."
+    },
+    "last_verified_date": "2025-07-08T00:00:00Z",
+    "refresh_due_date": "2026-01-08T00:00:00Z",
+    "reviewer": "فيصل العنيزي",
+    "methodology_ref": "trendsposts-methodology-v1",
+    "affiliate_offer_ids": [
+      "ps5-gulf",
+      "xbox-series-x-gulf"
+    ],
+    "seo_metadata": {
+      "metaTitle": "PlayStation 5 vs Xbox Series X — مقارنة في الخليج 2025",
+      "metaDescription": "PS5 مقابل Xbox Series X: ألعاب حصرية، Game Pass، السعر والتوفر في دول الخليج.",
+      "ogImage": "https://images.unsplash.com/photo-1606144042614-b2417e99c4e3?w=1200&h=630&fit=crop"
+    },
+    "locale": "ar",
+    "hreflang_group_id": "ar-ps5-vs-xbox-series-x-gulf"
+  },
+  {
+    "slug": "ar-saudi-uae-investment",
+    "title": "الاستثمار في السعودية vs الإمارات: أيهما أفضل؟",
+    "excerpt": "السوقان يتنافسان لجذب المستثمرين. نقارن العوائد والقوانين والفرص والبيئة الاستثمارية.",
+    "category": "business",
+    "categoryLabel": "الأعمال",
+    "author": "hassan-ibrahim",
+    "authorName": "حسن إبراهيم",
+    "date": "2025-07-08T09:00:00+00:00",
+    "readTime": 12,
+    "image": "https://images.unsplash.com/photo-1512453979798-5ea266f8880c?w=860&h=573&fit=crop",
+    "featured": true,
+    "tags": [
+      "استثمار",
+      "سعودية",
+      "إمارات",
+      "أعمال",
+      "مقارنة"
+    ],
+    "views": 24300,
+    "status": "published",
+    "content_type": "comparison",
+    "entity_A": {
+      "name": "الاستثمار في السعودية",
+      "image": "https://images.unsplash.com/photo-1578895101408-1a36b834405b?w=400&h=400&fit=crop",
+      "priceRange": "minimal: 100,000 ريال",
+      "offerId": "invest-saudi"
+    },
+    "entity_B": {
+      "name": "الاستثمار في الإمارات",
+      "image": "https://images.unsplash.com/photo-1518684079-3c830dcef090?w=400&h=400&fit=crop",
+      "priceRange": "minimal: 50,000 درهم",
+      "offerId": "invest-uae"
+    },
+    "verdict_winner": "A",
+    "spec_comparison_matrix": [
+      {
+        "feature": "نمو الاقتصاد",
+        "val_A": "8.7% (2024)",
+        "val_B": "3.9% (2024)",
+        "winner": "A"
+      },
+      {
+        "feature": "الضريبة",
+        "val_A": "15% ضريبة القيمة المضافة",
+        "val_B": "5% ضريبة القيمة المضافة",
+        "winner": "B"
+      },
+      {
+        "feature": "التوظيف",
+        "val_A": "نظام التوطين",
+        "val_B": "نظام رعاية",
+        "winner": "B"
+      },
+      {
+        "feature": "حجم السوق",
+        "val_A": "36 مليون نسمة",
+        "val_B": "10 ملايين نسمة",
+        "winner": "A"
+      },
+      {
+        "feature": "مشاريع رؤية 2030",
+        "val_A": "نيوم، الألعاب، السياحة",
+        "val_B": "لا يوجد ما يعادل",
+        "winner": "A"
+      },
+      {
+        "feature": "سهولة الممارسة",
+        "val_A": "متوسطة",
+        "val_B": "سهلة جداً",
+        "winner": "B"
+      },
+      {
+        "feature": "النظام القانوني",
+        "val_A": "يتطور",
+        "val_B": "مستقر ومتطور",
+        "winner": "B"
+      }
+    ],
+    "pros_cons_A": [
+      "سوق أكبر بكثير (36 مليون نسمة)",
+      "نمو اقتصادي أقوى (8.7%)",
+      "مشاريع ضخمة (نيوم، الألعاب)",
+      "فرص هائلة في قطاعات جديدة",
+      "استثمار طويل المدى"
+    ],
+    "pros_cons_B": [
+      "نظام ضريبي أقل (5% vs 15%)",
+      "ممارسة أعمال أسهل وأسرع",
+      "نظام قانوني مستقر",
+      "وصول سهل للأسواق العالمية",
+      "بنية تحتية متطورة"
+    ],
+    "when_loser_wins": [
+      "تريد سوقاً أصغر وأكثر إدارة",
+      "الضريبة المنخفضة هي أولويتك",
+      "تريد ممارسة أعمال سريعة وبسيطة",
+      "تبحث عن وصول سهل للأسواق الآسيوية والأوروبية",
+      "تفضل بنية تحتية متطورة ومصرحة"
+    ],
+    "page_class": "money",
+    "structural_blocks": {
+      "question_answered": "السعودية تفوز بحجم السوق والنمو. الإمارات تفوز بسهولة الممارسة والضريبة المنخفضة.",
+      "context": "السعودية والإمارات يتنافسان لجذب الاستثمارات الأجنبية. كل واحدة لها مزايا مختلفة.",
+      "comparison": "السعودية تتفوق بحجم السوق والنمو ومشاريع رؤية 2030. الإمارات تتفوق بسهولة الممارسة والنظام الضريبي المنخفض. للاستثمارات الكبيرة طويلة المدى، السعودية أفضل. للشركات الصغيرة والمتوسطة، الإمارات أسهل.",
+      "action": "استثمر في السعودية للسوق الأكبر والنمو. استثمر في الإمارات للسهولة والضريبة المنخفضة."
+    },
+    "last_verified_date": "2025-07-05T00:00:00Z",
+    "refresh_due_date": "2026-01-05T00:00:00Z",
+    "reviewer": "حسن إبراهيم",
+    "methodology_ref": "trendsposts-methodology-v1",
+    "affiliate_offer_ids": [
+      "invest-saudi",
+      "invest-uae"
+    ],
+    "seo_metadata": {
+      "metaTitle": "الاستثمار في السعودية vs الإمارات — أيهما أفضل في 2025؟",
+      "metaDescription": "مقارنة الاستثمارات في السعودية والإمارات: العوائد، الضريبة، القوانين والفرص.",
+      "ogImage": "https://images.unsplash.com/photo-1512453979798-5ea266f8880c?w=1200&h=630&fit=crop"
+    },
+    "locale": "ar",
+    "hreflang_group_id": "ar-saudi-uae-investment"
+  },
+  {
+    "slug": "ar-alrajhi-vs-nbank-sa",
+    "title": "البنك الأهلي السعودي vs الراجحي: أيهما أفضل في 2025؟",
+    "excerpt": "البنكان큰ان في المملكة يتنافسان في الخدمات الرقمية والأسعار والمنتجات. نقارن التجربة والقيمة.",
+    "category": "business",
+    "categoryLabel": "الأعمال",
+    "author": "hassan-ibrahim",
+    "authorName": "حسن إبراهيم",
+    "date": "2025-07-20T10:00:00+00:00",
+    "readTime": 8,
+    "image": "https://images.unsplash.com/photo-1554224155-6726b3ff858f?w=860&h=573&fit=crop",
+    "featured": true,
+    "tags": [
+      "بنوك",
+      "الاهلي",
+      "الراجحي",
+      "سعودية",
+      "مالية"
+    ],
+    "views": 28500,
+    "status": "published",
+    "content_type": "comparison",
+    "entity_A": {
+      "name": "البنك الأهلي السعودي",
+      "image": "https://images.unsplash.com/photo-1554224155-6726b3ff858f?w=400&h=400&fit=crop",
+      "priceRange": "حساب مجاني مع الراتب",
+      "offerId": "nbank-sa"
+    },
+    "entity_B": {
+      "name": "مصرف الراجحي",
+      "image": "https://images.unsplash.com/photo-1601597111158-2fceff292cdc?w=400&h=400&fit=crop",
+      "priceRange": "حساب مجاني",
+      "offerId": "alrajhi-sa"
+    },
+    "verdict_winner": "B",
+    "spec_comparison_matrix": [
+      {
+        "feature": "التطبيقات الرقمية",
+        "val_A": "تطبيق متطور",
+        "val_B": "تطبيق الأفضل في المنطقة",
+        "winner": "B"
+      },
+      {
+        "feature": "القروض",
+        "val_A": "أسعار تنافسية",
+        "val_B": "أسعار إسلامية موثوقة",
+        "winner": "tie"
+      },
+      {
+        "feature": "الفرع",
+        "val_A": "أكثر من 300 فرع",
+        "val_B": "أكثر من 600 فرع",
+        "winner": "B"
+      },
+      {
+        "feature": "الحسابات",
+        "val_A": "حسابات جاري وادخار",
+        "val_B": "حسابات متنوعة إسلامية",
+        "winner": "tie"
+      },
+      {
+        "feature": "التحويلات",
+        "val_A": "فورية ومجانية",
+        "val_B": "فورية ومجانية",
+        "winner": "tie"
+      },
+      {
+        "feature": "البطاقات",
+        "val_A": "فيزا وماستركارد",
+        "val_B": "فيزا وماستركارد ومدى",
+        "winner": "A"
+      },
+      {
+        "feature": "الاستثمار",
+        "val_B": "إدارة أصول وصناديق",
+        "val_A": "أهلي كابيتال",
+        "winner": "tie"
+      }
+    ],
+    "pros_cons_A": [
+      "أقدم وأكبر بنك في المنطقة",
+      "فرع أكثر من 300 في المملكة",
+      "أهلي كابيتال للإدارة الاستثمارية",
+      "شراكات دولية قوية",
+      "خدمات مصرفية متنوعة"
+    ],
+    "pros_cons_B": [
+      "الأفضل في التطبيق الرقمي",
+      "أكثر من 600 فرع",
+      "متوافق 100% مع الشريعة الإسلامية",
+      "أسعار تحويل دولي منخفضة",
+      "مجتمع من المالكين الأكبر"
+    ],
+    "when_loser_wins": [
+      "تحتاج تجربة رقمية متطورة",
+      "تريد التوافق الإسلامي 100%",
+      "تبحث عن أسعار تحويل دولي منخفضة",
+      "تريد أكبر شبكة فروع",
+      "تفضل بنكاً يخدم مجتمع المالكين"
+    ],
+    "page_class": "money",
+    "structural_blocks": {
+      "question_answered": "مصرف الراجحي يفوز بالتطبيق الرقمي وشبكة الفروع. البنك الأهلي يفوز بالخبرة الدولية وخدمات الاستثمار.",
+      "context": "البنك الأهلي السعودي ومصرف الراجحي هما أكبر بنكين في المملكة العربية السعودية. كلاهما يقدم خدمات رقمية متطورة لكن بفلسفات مختلفة.",
+      "comparison": "الراجحي يتقدم بالتطبيق الأفضل وعدد الفروع الأكبر والتوافق الإسلامي. الأهلي يرد بالخبرة الدولية وأهلي كابيتال. للتجربة الرقمية، الراجحي. للخدمات المتنوعة، الأهلي.",
+      "action": "اختر الراجحي للتجربة الرقمية والتوافق الإسلامي. اختر الأهلي للخدمات المتنوعة والاستثمار."
+    },
+    "last_verified_date": "2025-07-15T00:00:00Z",
+    "refresh_due_date": "2026-01-15T00:00:00Z",
+    "reviewer": "حسن إبراهيم",
+    "methodology_ref": "trendsposts-methodology-v1",
+    "affiliate_offer_ids": [
+      "nbank-sa",
+      "alrajhi-sa"
+    ],
+    "seo_metadata": {
+      "metaTitle": "البنك الأهلي vs الراجحي — أيهما أفضل في 2025؟",
+      "metaDescription": "مقارنة البنك الأهلي السعودي ومصرف الراجحي: تطبيق رقمي، فروع، أسعار وخدمات مصرفية.",
+      "ogImage": "https://images.unsplash.com/photo-1554224155-6726b3ff858f?w=1200&h=630&fit=crop"
+    },
+    "locale": "ar",
+    "hreflang_group_id": "ar-alrajhi-vs-nbank-sa"
+  },
+  {
+    "slug": "ar-noon-vs-amazon-sa",
+    "title": "نون vs أمازون السعودية: أيهما أفضل للتسوق أونلاين؟",
+    "excerpt": "منصتا التسوق الإلكتروني يتنافسان بالأسعار والشحن والتنوع. نقارن تجربة التسوق والقيمة.",
+    "category": "business",
+    "categoryLabel": "التجارة الإلكترونية",
+    "author": "turki-alotaibi",
+    "authorName": "تركي العتيبي",
+    "date": "2025-07-18T10:00:00+00:00",
+    "readTime": 7,
+    "image": "https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?w=860&h=573&fit=crop",
+    "featured": true,
+    "tags": [
+      "تسوق",
+      "نون",
+      "أمازون",
+      "سعودية",
+      "إلكتروني"
+    ],
+    "views": 25800,
+    "status": "published",
+    "content_type": "comparison",
+    "entity_A": {
+      "name": "نون (Noon)",
+      "image": "https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?w=400&h=400&fit=crop",
+      "priceRange": "شحن مجاني فوق 100 ريال",
+      "offerId": "noon-sa"
+    },
+    "entity_B": {
+      "name": "أمازون السعودية",
+      "image": "https://images.unsplash.com/photo-1523474253046-8cd2748b5fd2?w=400&h=400&fit=crop",
+      "priceRange": "Prime 49 ريال/شهر",
+      "offerId": "amazon-sa"
+    },
+    "verdict_winner": "A",
+    "spec_comparison_matrix": [
+      {
+        "feature": "الشحن",
+        "val_A": "مجاني فوق 100 ريال",
+        "val_B": "مجاني مع Prime (49 ريال/شهر)",
+        "winner": "A"
+      },
+      {
+        "feature": "التنوع",
+        "val_A": "50+ مليون منتج",
+        "val_B": "100+ مليون منتج",
+        "winner": "B"
+      },
+      {
+        "feature": "السرعة",
+        "val_A": "نفس اليوم في المدن الكبرى",
+        "val_B": "1-2 يوم مع Prime",
+        "winner": "A"
+      },
+      {
+        "feature": "المنتجات المحلية",
+        "val_A": "ممتاز - تجارة محلية قوية",
+        "val_B": "محدودة نسبياً",
+        "winner": "A"
+      },
+      {
+        "feature": "الإلكترونيات",
+        "val_B": "أسعار تنافسية جداً",
+        "val_A": "جيدة",
+        "winner": "B"
+      },
+      {
+        "feature": "الإرجاع",
+        "val_A": "مجاني",
+        "val_B": "مجاني مع Prime",
+        "winner": "tie"
+      },
+      {
+        "feature": "الدفع",
+        "val_A": "تابي، تمارا، مدى",
+        "val_B": "تابي، فيزا",
+        "winner": "tie"
+      }
+    ],
+    "pros_cons_A": [
+      "شحن مجاني بدون اشتراك",
+      "توصيل نفس اليوم في الرياض وجدة",
+      "منتجات محلية سعودية أكثر",
+      "عروض نون دي ونون سوبرمان",
+      "تابي وتمارا متاحين"
+    ],
+    "pros_cons_B": [
+      "تنوع منتجات أكبر عالمياً",
+      "أسعار إلكترونيات أقل",
+      "Prime Video مضمّن",
+      "Alexa وخدمات أمازون الذكية",
+      "تجربة عالمية موحدة"
+    ],
+    "when_loser_wins": [
+      "تريد شحن مجاني بدون اشتراك شهري",
+      "تبحث عن منتجات محلية سعودية",
+      "تحتاج توصيل سريع جداً",
+      "تريد تجربة تسوق عالمية",
+      "تفضل أسعار الإلكترونيات الأقل"
+    ],
+    "page_class": "money",
+    "structural_blocks": {
+      "question_answered": "نون يفوز بالشحن المجاني والسرعة والمنتجات المحلية. أمازون يفوز بالتنوع والأسعار التنافسية.",
+      "context": "نون و أمازون يتنافسان على سوق التجارة الإلكترونية السعودي المتنامي. نون صاعد محلي أما أمازون عالمي.",
+      "comparison": "نون يقدم توصيل أسرع وشحن مجاني ومنتجات محلية أكثر. أمازون يقدم تنوعاً أكبر وأسعار إلكترونيات أقل. للتسوق المحلي، نون أفضل. للتنوع العالمي، أمازون أفضل.",
+      "action": "اختر نون للشحن المجاني والتوصيل السريع. اختر أمازون للتنوع والأسعار التنافسية."
+    },
+    "last_verified_date": "2025-07-15T00:00:00Z",
+    "refresh_due_date": "2026-01-15T00:00:00Z",
+    "reviewer": "تركي العتيبي",
+    "methodology_ref": "trendsposts-methodology-v1",
+    "affiliate_offer_ids": [
+      "noon-sa",
+      "amazon-sa"
+    ],
+    "seo_metadata": {
+      "metaTitle": "نون vs أمازون السعودية — أيهما أفضل للتسوق 2025",
+      "metaDescription": "نون مقابل أمازون السعودية: أسعار، شحن، تنوع وسرعة توصيل مقارنة.",
+      "ogImage": "https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?w=1200&h=630&fit=crop"
+    },
+    "locale": "ar",
+    "hreflang_group_id": "ar-noon-vs-amazon-sa"
+  },
+  {
+    "slug": "ar-careem-vs-uber-gulf",
+    "title": "كريم vs أوبر في الخليج: أيهما أفضل للاستخدام اليومي؟",
+    "excerpt": "منصتا النقل يتنافسان بالأسعار والمزايا والتغطية. نقارن تجربة السائق والراكب.",
+    "category": "technology",
+    "categoryLabel": "النقل",
+    "author": "sultan-aldosari",
+    "authorName": "سلطان الدوسري",
+    "date": "2025-07-15T10:00:00+00:00",
+    "readTime": 7,
+    "image": "https://images.unsplash.com/photo-1449965408869-ebd3fee26ea0?w=860&h=573&fit=crop",
+    "featured": false,
+    "tags": [
+      "نقل",
+      "كريم",
+      "اوبر",
+      "خليج",
+      "توصيل"
+    ],
+    "views": 19200,
+    "status": "published",
+    "content_type": "comparison",
+    "entity_A": {
+      "name": "كريم (Careem)",
+      "image": "https://images.unsplash.com/photo-1544620347-c4fd4a3d5957?w=400&h=400&fit=crop",
+      "priceRange": "تسعيرة متغيرة",
+      "offerId": "careem-gulf"
+    },
+    "entity_B": {
+      "name": "أوبر (Uber)",
+      "image": "https://images.unsplash.com/photo-1449965408869-ebd3fee26ea0?w=400&h=400&fit=crop",
+      "priceRange": "تسعيرة متغيرة",
+      "offerId": "uber-gulf"
+    },
+    "verdict_winner": "A",
+    "spec_comparison_matrix": [
+      {
+        "feature": "التغطية",
+        "val_A": "ممتازة في الخليج والشرق الأوسط",
+        "val_B": "ممتازة عالمياً",
+        "winner": "tie"
+      },
+      {
+        "feature": "الأسعار",
+        "val_A": "تنافسية في الخليج",
+        "val_B": "تنافسية عالمياً",
+        "winner": "tie"
+      },
+      {
+        "feature": "الخدمات",
+        "val_A": "نقل، توصيل، سوبر ماركت",
+        "val_B": "نقل، توصيل طعام",
+        "winner": "A"
+      },
+      {
+        "feature": "التوصيل",
+        "val_A": "كريم ماركت للسوبر ماركت",
+        "val_B": "أوبر إيتس للطعام",
+        "winner": "tie"
+      },
+      {
+        "feature": "الدفع",
+        "val_A": "نقد، كريم وليت",
+        "val_B": "نقد، بطاكة، uber cash",
+        "winner": "tie"
+      },
+      {
+        "feature": "الولاء",
+        "val_A": "كريم وليت (نقاط)",
+        "val_B": "uber rewards",
+        "winner": "A"
+      },
+      {
+        "feature": "الموقع",
+        "val_B": "متاح في 70+ دولة",
+        "val_A": "متاح في 10 دول",
+        "winner": "B"
+      }
+    ],
+    "pros_cons_A": [
+      "تطبيق مصمم للمنطقة العربية",
+      "كريم وليت نقاط يمكن استخدامها",
+      "كريم ماركت لتوصيل السوبر ماركت",
+      "خدمة عملاء بالعربية",
+      "مملوكة لصالح المنطقة"
+    ],
+    "pros_cons_B": [
+      "متاح في 70+ دولة للسفر",
+      "تطبيق عالمي موحد",
+      "أوبر إيتس للطعام",
+      "مدى أرخص أحياناً",
+      "تجربة عالمية موحدة"
+    ],
+    "when_loser_wins": [
+      "تسافر خارج الخليج كثيراً",
+      "تريد خدمة عالمية موحدة",
+      "تفضل أسعار أحياناً أقل",
+      "تستخدم التطبيق في دول متعددة",
+      "تفضل تجربة عالمية موحدة"
+    ],
+    "page_class": "support",
+    "structural_blocks": {
+      "question_answered": "كريم يفوز بالخدمات المحلية والنقاط. أوبر يفوز بالتوسع العالمي.",
+      "context": "كريم وأوبر يتنافسان على سوق النقل في الخليج. كريم بدأت محلياً بينما أوبر عالمية. كريم مملوكة لصالح الآن.",
+      "comparison": "كريم يقدم تجربة مصممة للمنطقة مع خدمات متنوعة مثل كريم ماركت. أوبر يقدم تجربة عالمية موحدة. للخليج، كريم أفضل. للسفر الدولي، أوبر أفضل.",
+      "action": "اختر كريم للخدمات المحلية والنقاط. اختر أوبر للسفر الدولي والتجربة العالمية."
+    },
+    "last_verified_date": "2025-07-12T00:00:00Z",
+    "refresh_due_date": "2026-01-12T00:00:00Z",
+    "reviewer": "سلطان الدوسري",
+    "methodology_ref": "trendsposts-methodology-v1",
+    "affiliate_offer_ids": [
+      "careem-gulf",
+      "uber-gulf"
+    ],
+    "seo_metadata": {
+      "metaTitle": "كريم vs أوبر الخليج — أيهما أفضل للاستخدام اليومي 2025",
+      "metaDescription": "مقارنة كريم وأوبر في الخليج: أسعار، خدمات، نقاط وتغطية مقارنة.",
+      "ogImage": "https://images.unsplash.com/photo-1449965408869-ebd3fee26ea0?w=1200&h=630&fit=crop"
+    },
+    "locale": "ar",
+    "hreflang_group_id": "ar-careem-vs-uber-gulf"
+  },
+  {
+    "slug": "ar-shahid-vs-starzplay-gulf",
+    "title": "شاهد vs STARZPLAY: أيهما أفضل منصة بث في الخليج؟",
+    "excerpt": "منصتا البث يتنافسان بالمحتوى والسعر والجودة. نقارن المحتوى الأصلي والمحتوى الإقليمي.",
+    "category": "entertainment",
+    "categoryLabel": "البث",
+    "author": "abdulrahman-alfahad",
+    "authorName": "عبدالرحمن الفهد",
+    "date": "2025-07-12T10:00:00+00:00",
+    "readTime": 8,
+    "image": "https://images.unsplash.com/photo-1574375927938-d5a98e8ffe85?w=860&h=573&fit=crop",
+    "featured": false,
+    "tags": [
+      "بث",
+      "شاهد",
+      "ستارزبلاي",
+      "خليج",
+      "ترفيه"
+    ],
+    "views": 22100,
+    "status": "published",
+    "content_type": "comparison",
+    "entity_A": {
+      "name": "شاهد (Shahid)",
+      "image": "https://images.unsplash.com/photo-1574375927938-d5a98e8ffe85?w=400&h=400&fit=crop",
+      "priceRange": "49 ريال/شهر VIP",
+      "offerId": "shahid-vip"
+    },
+    "entity_B": {
+      "name": "STARZPLAY",
+      "image": "https://images.unsplash.com/photo-1586899028174-e7098604235b?w=400&h=400&fit=crop",
+      "priceRange": "39 ريال/شهر",
+      "offerId": "starzplay-gulf"
+    },
+    "verdict_winner": "A",
+    "spec_comparison_matrix": [
+      {
+        "feature": "السعر",
+        "val_A": "49 ريال/شهر",
+        "val_B": "39 ريال/شهر",
+        "winner": "B"
+      },
+      {
+        "feature": "المحتوى العربي",
+        "val_A": "الأفضل - مسلسلات وأفلام عربية",
+        "val_B": "محدود",
+        "winner": "A"
+      },
+      {
+        "feature": "المحتوى الأجنبي",
+        "val_B": "أفلام وحلقات حديثة",
+        "val_A": "محتوى متنوع",
+        "winner": "B"
+      },
+      {
+        "feature": "الرياضة",
+        "val_A": "beIN Sports مع VIP",
+        "val_B": "غير متوفر",
+        "winner": "A"
+      },
+      {
+        "feature": "الجودة",
+        "val_A": "4K HDR",
+        "val_B": "HD / 4K محدود",
+        "winner": "A"
+      },
+      {
+        "feature": "الأجهزة",
+        "val_A": "جميع الأجهزة",
+        "val_B": "جميع الأجهزة",
+        "winner": "tie"
+      },
+      {
+        "feature": "Offline",
+        "val_A": "نعم",
+        "val_B": "نعم",
+        "winner": "tie"
+      }
+    ],
+    "pros_cons_A": [
+      "أفضل محتوى عربي أصلي",
+      "beIN Sports مع VIP",
+      "جودة 4K HDR",
+      "مسلسلات تركية وعربية حصرية",
+      "أكبر منصة عربية"
+    ],
+    "pros_cons_B": [
+      "سعر أقل (39 ريال)",
+      "أفلام هوليوود حديثة",
+      "STARZ محتوى حصري",
+      "بلا إعلانات",
+      "واجهة بسيطة وسريعة"
+    ],
+    "when_loser_wins": [
+      "تبحث عن السعر الأقل",
+      "تفضل أفلام هوليوود الحديثة",
+      "لا تحتاج محتوى عربي",
+      "تريد محتوى STARZ الحصري",
+      "تفضل واجهة بسيطة"
+    ],
+    "page_class": "support",
+    "structural_blocks": {
+      "question_answered": "شاهد يفوز بالمحتوى العربي والرياضة. STARZPLAY يفوز بالسعر وأفلام هوليوود.",
+      "context": "شاهد وSTARZPLAY يتنافسان على سوق البث في الخليج. شاهد هو الأكبر عربياً بينما STARZPLAY يقدم محتوى عالمي.",
+      "comparison": "شاهد يقدم أفضل محتوى عربي ورياضة beIN Sports. STARZPLAY يقدم أفلام هوليوود بسعر أقل. للمحتوى العربي والرياضة، شاهد. للأفلام العالمية، STARZPLAY.",
+      "action": "اختر شاهد للمحتوى العربي والرياضة. اختر STARZPLAY للسعر وأفلام هوليوود."
+    },
+    "last_verified_date": "2025-07-10T00:00:00Z",
+    "refresh_due_date": "2026-01-10T00:00:00Z",
+    "reviewer": "عبدالرحمن الفهد",
+    "methodology_ref": "trendsposts-methodology-v1",
+    "affiliate_offer_ids": [
+      "shahid-vip",
+      "starzplay-gulf"
+    ],
+    "seo_metadata": {
+      "metaTitle": "شاهد vs STARZPLAY — أيهما أفضل منصة بث في الخليج 2025",
+      "metaDescription": "مقارنة شاهد وSTARZPLAY: محتوى، سعر، جودة ومحتوى عربي مقارن.",
+      "ogImage": "https://images.unsplash.com/photo-1574375927938-d5a98e8ffe85?w=1200&h=630&fit=crop"
+    },
+    "locale": "ar",
+    "hreflang_group_id": "ar-shahid-vs-starzplay-gulf"
+  },
+  {
+    "slug": "ar-hyundai-vs-kia-sa",
+    "title": "هيونداي vs كيا في السعودية: أيهما أفضل سيارة؟",
+    "excerpt": "العلامتان الكوريتان تتنافسان في السوق السعودي بالسعر والجودة والضمان. نقارن القيمة والاستهلاك.",
+    "category": "technology",
+    "categoryLabel": "السيارات",
+    "author": "turki-alotaibi",
+    "authorName": "تركي العتيبي",
+    "date": "2025-07-10T10:00:00+00:00",
+    "readTime": 9,
+    "image": "https://images.unsplash.com/photo-1609521263047-f8f205293f24?w=860&h=573&fit=crop",
+    "featured": false,
+    "tags": [
+      "سيارات",
+      "هيونداي",
+      "كيا",
+      "سعودية",
+      "كوري"
+    ],
+    "views": 23400,
+    "status": "published",
+    "content_type": "comparison",
+    "entity_A": {
+      "name": "هيونداي (Hyundai)",
+      "image": "https://images.unsplash.com/photo-1609521263047-f8f205293f24?w=400&h=400&fit=crop",
+      "priceRange": " Tucson من 99,900 ريال",
+      "offerId": "hyundai-sa"
+    },
+    "entity_B": {
+      "name": "كيا (Kia)",
+      "image": "https://images.unsplash.com/photo-1549399542-7e3f8b79c341?w=400&h=400&fit=crop",
+      "priceRange": "Sportage من 97,500 ريال",
+      "offerId": "kia-sa"
+    },
+    "verdict_winner": "tie",
+    "spec_comparison_matrix": [
+      {
+        "feature": "الضمان",
+        "val_A": "5 سنوات / 100,000 كم",
+        "val_B": "5 سنوات / 150,000 كم",
+        "winner": "B"
+      },
+      {
+        "feature": "التصميم",
+        "val_A": "جريء وعصري",
+        "val_B": "جريء ومميز",
+        "winner": "tie"
+      },
+      {
+        "feature": "التكنولوجيا",
+        "val_A": "Bluelink Connected",
+        "val_B": "UVO Connect",
+        "winner": "tie"
+      },
+      {
+        "feature": "المواصفات",
+        "val_A": "شاملة في الفئات الأساسية",
+        "val_B": "شاملة في الفئات الأساسية",
+        "winner": "tie"
+      },
+      {
+        "feature": "قطع الغيار",
+        "val_A": "متاحة ومتوفرة",
+        "val_B": "متاحة ومتوفرة",
+        "winner": "tie"
+      },
+      {
+        "feature": "القيمة المُعادة",
+        "val_A": "جيد جداً",
+        "val_B": "جيد جداً",
+        "winner": "tie"
+      },
+      {
+        "feature": "خدمة ما بعد البيع",
+        "val_A": "شبكة واسعة",
+        "val_B": "شبكة واسعة",
+        "winner": "tie"
+      }
+    ],
+    "pros_cons_A": [
+      "السيارة الكهربائية IONIQ 5 رائدة",
+      "تصميم Tucson جريء ومميز",
+      "Bluelink لتحكم عن بُعد",
+      "قطع غيار متوفرة",
+      "خبرة عالمية في الكهربائية"
+    ],
+    "pros_cons_B": [
+      "ضمان 150,000 كم (vs 100,000 كم)",
+      "تصميم Sportage مبتكر",
+      "UVO Connect سهل الاستخدام",
+      "قيمة ممتازة في الفئات الأساسية",
+      "EV6 الكهربائية تنافسية"
+    ],
+    "when_loser_wins": [
+      "تريد ضماناً أطول",
+      "تفضل تصميماً مختلفاً",
+      "تحتاج سيارة كهربائية",
+      "تبحث عن أفضل قيمة",
+      "تفضل خدمة ما بعد البيع الموثوقة"
+    ],
+    "page_class": "money",
+    "structural_blocks": {
+      "question_answered": "كلاهما ممتازان بنفس المستوى. كيا تتفوق بالضمان الأطول. هيونداي تتفوق بالخبرة الكهربائية.",
+      "context": "هيونداي وكيا كلاهما مملوكتان لمجموعة هيونداي كيا موتورز. كلاهما يقدمان جودة كورية عالية بأسعار تنافسية في السوق السعودي.",
+      "comparison": "كلا العلامتين متماثلتان في الجودة والتكنولوجيا والقيمة. كيا تقدم ضماناً أطول (150,000 كم). هيونداي تقدم خبرة كهربائية أوسع (IONIQ 5). كلاهما خيار ممتاز.",
+      "action": "اختر كيا إذا كنت تريد ضماناً أطول. اختر هيونداي إذا كنت تريد خبرة كهربائية."
+    },
+    "last_verified_date": "2025-07-08T00:00:00Z",
+    "refresh_due_date": "2026-01-08T00:00:00Z",
+    "reviewer": "تركي العتيبي",
+    "methodology_ref": "trendsposts-methodology-v1",
+    "affiliate_offer_ids": [
+      "hyundai-sa",
+      "kia-sa"
+    ],
+    "seo_metadata": {
+      "metaTitle": "هيونداي vs كيا السعودية — أيهما أفضل في 2025",
+      "metaDescription": "مقارنة هيونداي وكيا في السعودية: ضمان، تكنولوجيا، تصميم وقيمة مقارنة.",
+      "ogImage": "https://images.unsplash.com/photo-1609521263047-f8f205293f24?w=1200&h=630&fit=crop"
+    },
+    "locale": "ar",
+    "hreflang_group_id": "ar-hyundai-vs-kia-sa"
+  },
+  {
+    "slug": "ar-saudi-vision-2030-vs-uae",
+    "title": "رؤية السعودية 2030 vs رؤية الإمارات: أيهما أفضل للاستثمار؟",
+    "excerpt": "البلدان يتنافسان لجذب المستثمرين بمشاريع ضخمة وبيئات متنوعة. نقارن الفرص والعوائد.",
+    "category": "business",
+    "categoryLabel": "الأعمال",
+    "author": "hassan-ibrahim",
+    "authorName": "حسن إبراهيم",
+    "date": "2025-07-05T10:00:00+00:00",
+    "readTime": 10,
+    "image": "https://images.unsplash.com/photo-1512453979798-5ea266f8880c?w=860&h=573&fit=crop",
+    "featured": true,
+    "tags": [
+      "استثمار",
+      "رؤية 2030",
+      "سعودية",
+      "إمارات",
+      "مشاريع"
+    ],
+    "views": 27800,
+    "status": "published",
+    "content_type": "comparison",
+    "entity_A": {
+      "name": "رؤية السعودية 2030",
+      "image": "https://images.unsplash.com/photo-1578895101408-1a36b834405b?w=400&h=400&fit=crop",
+      "priceRange": "مشاريع من $100 مليار+",
+      "offerId": "invest-saudi-vision"
+    },
+    "entity_B": {
+      "name": "رؤية الإمارات",
+      "image": "https://images.unsplash.com/photo-1518684079-3c830dcef090?w=400&h=400&fit=crop",
+      "priceRange": "مشاريع متنوعة",
+      "offerId": "invest-uae-vision"
+    },
+    "verdict_winner": "A",
+    "spec_comparison_matrix": [
+      {
+        "feature": "حجم المشاريع",
+        "val_A": "نيوم، لاين، ذا لاين ($500B+)",
+        "val_B": "مشاريع متوسطة الحجم",
+        "winner": "A"
+      },
+      {
+        "feature": "النمو الاقتصادي",
+        "val_A": "8.7% (2024)",
+        "val_B": "3.9% (2024)",
+        "winner": "A"
+      },
+      {
+        "feature": "سهولة الأعمال",
+        "val_B": "من الأسهل عالمياً",
+        "val_A": "متوسطة - تتحسن",
+        "winner": "B"
+      },
+      {
+        "feature": "النظام الضريبي",
+        "val_B": "5% ضريبة القيمة المضافة",
+        "val_A": "15% ضريبة القيمة المضافة",
+        "winner": "B"
+      },
+      {
+        "feature": "حجم السوق",
+        "val_A": "36 مليون نسمة",
+        "val_B": "10 ملايين نسمة",
+        "winner": "A"
+      },
+      {
+        "feature": "البنية التحتية",
+        "val_A": "قيد التطوير الضخم",
+        "val_B": "متطورة جداً حالياً",
+        "winner": "B"
+      },
+      {
+        "feature": "القطاعات الجديدة",
+        "val_A": "سياحة، ألعاب، طاقة نظيفة",
+        "val_B": "تقنية، مالية، سياحة",
+        "winner": "tie"
+      }
+    ],
+    "pros_cons_A": [
+      "مشاريع ضخمة فريدة (نيوم، لاين)",
+      "نمو اقتصادي أقوى (8.7%)",
+      "سوق أكبر بكثير (36 مليون)",
+      "فرص في قطاعات جديدة كلياً",
+      "استثمار طويل المدى هائل"
+    ],
+    "pros_cons_B": [
+      "البنية التحتية جاهزة حالياً",
+      "نظام ضريبي أقل بكثير",
+      "سهولة ممارسة الأعمال",
+      "وصول سهل للأسواق العالمية",
+      "تجربة استثمارية مثبتة"
+    ],
+    "when_loser_wins": [
+      "تريد استثمارات جاهزة فوراً",
+      "تفضل ضريبة منخفضة",
+      "تريد بنية تحتية متطورة",
+      "تبحث عن سوق أصغر وأكثر إدارياً",
+      "تفضل تجربة استثمارية محايدة"
+    ],
+    "page_class": "money",
+    "structural_blocks": {
+      "question_answered": "السعودية تفوز بحجم المشاريع والنمو. الإمارات تفوز بالبنية التحتية وسهولة الأعمال.",
+      "context": "السعودية والإمارات يتنافسان لجذب الاستثمارات الأجنبية بكل الوسائل. السعودية تقدم مشاريع عملاقة بينما الإمارات تقدم بيئة استثمارية متكاملة.",
+      "comparison": "السعودية تتفوق بحجم المشاريع والنمو وسوق أكبر. الإمارات تتفوق بالبنية التحتية والضريبة المنخفضة وسهولة الممارسة. للاستثمارات الكبيرة طويلة المدى، السعودية أفضل. للشركات السريعة، الإمارات أفضل.",
+      "action": "استثمر في السعودية للمشاريع الضخمة والنمو. استثمر في الإمارات للبنية التحتية والسهولة."
+    },
+    "last_verified_date": "2025-07-01T00:00:00Z",
+    "refresh_due_date": "2026-01-01T00:00:00Z",
+    "reviewer": "حسن إبراهيم",
+    "methodology_ref": "trendsposts-methodology-v1",
+    "affiliate_offer_ids": [
+      "invest-saudi-vision",
+      "invest-uae-vision"
+    ],
+    "seo_metadata": {
+      "metaTitle": "رؤية السعودية 2030 vs رؤية الإمارات — أيهما أفضل للاستثمار 2025",
+      "metaDescription": "مقارنة رؤية السعودية 2030 ورؤية الإمارات: مشاريع، نمو، ضرائب وسهولة ممارسة الأعمال.",
+      "ogImage": "https://images.unsplash.com/photo-1512453979798-5ea266f8880c?w=1200&h=630&fit=crop"
+    },
+    "locale": "ar",
+    "hreflang_group_id": "ar-saudi-vision-2030-vs-uae"
+  }
+]

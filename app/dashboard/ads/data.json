@@ -1,0 +1,152 @@
+{
+  "_meta": {
+    "generated": "2026-07-31T00:00:00.000Z",
+    "description": "Canonical list of ad positions extracted from templates — synced with dashboard PAGE_CONFIG"
+  },
+  "pageTypes": [
+    {
+      "type": "homepage",
+      "label": "Homepage",
+      "positions": [
+        {
+          "id": "top-leaderboard",
+          "name": "Top Leaderboard Ad (ATF)",
+          "description": "Above the fold, highest visibility",
+          "template": "HomeTemplate.tsx"
+        },
+        {
+          "id": "sticky-footer",
+          "name": "Sticky Footer Ad",
+          "description": "Persistent at bottom of page",
+          "template": "HomeTemplate.tsx"
+        },
+        {
+          "id": "in-feed-1",
+          "name": "In-Feed Native 1",
+          "description": "Between Card #3 and #4",
+          "template": "HomeTemplate.tsx"
+        },
+        {
+          "id": "in-feed-2",
+          "name": "In-Feed Native 2",
+          "description": "Below the 6-item grid",
+          "template": "HomeTemplate.tsx"
+        },
+        {
+          "id": "in-feed-x",
+          "name": "In-Feed Native X (Repeating)",
+          "description": "Repeats every 10 cards",
+          "template": "HomeTemplate.tsx"
+        },
+        {
+          "id": "sidebar-sticky",
+          "name": "Sidebar Sticky",
+          "description": "Right sidebar, follows scroll",
+          "template": "HomeTemplate.tsx"
+        },
+        {
+          "id": "in-content-1",
+          "name": "Sidebar Rectangle",
+          "description": "Right sidebar, below social counters",
+          "template": "HomeTemplate.tsx"
+        }
+      ]
+    },
+    {
+      "type": "article",
+      "label": "Article",
+      "positions": [
+        {
+          "id": "top-leaderboard",
+          "name": "Top Leaderboard Ad (ATF)",
+          "description": "Above the fold",
+          "template": "ArticleTemplate.tsx"
+        },
+        {
+          "id": "atf-rectangle",
+          "name": "ATF Rectangle Ad (Highest Value)",
+          "description": "Highest value position",
+          "template": "ArticleTemplate.tsx"
+        },
+        {
+          "id": "in-feed-1",
+          "name": "In-Feed Native Ad 1",
+          "description": "After hero image",
+          "template": "ArticleTemplate.tsx"
+        },
+        {
+          "id": "atf-rectangle",
+          "name": "ATF Rectangle Ad (Highest Value)",
+          "description": "Highest value position",
+          "template": "ArticleTemplate.tsx"
+        },
+        {
+          "id": "sticky-footer",
+          "name": "Sticky Footer Ad",
+          "description": "Persistent at bottom",
+          "template": "ArticleTemplate.tsx"
+        },
+        {
+          "id": "in-content-1",
+          "name": "In-Content 1",
+          "description": "After Paragraph 2",
+          "template": "ArticleTemplate.tsx"
+        },
+        {
+          "id": "in-feed-2",
+          "name": "In-Feed Native Ad 2",
+          "description": "After in-content 2",
+          "template": "ArticleTemplate.tsx"
+        },
+        {
+          "id": "in-content-2",
+          "name": "In-Content 2",
+          "description": "After Paragraph 6",
+          "template": "ArticleTemplate.tsx"
+        },
+        {
+          "id": "sidebar-sticky",
+          "name": "Sidebar Sticky",
+          "description": "Desktop only, follows scroll",
+          "template": "ArticleTemplate.tsx"
+        }
+      ]
+    },
+    {
+      "type": "category",
+      "label": "Category",
+      "positions": [
+        {
+          "id": "top-leaderboard",
+          "name": "Top Leaderboard (ATF)",
+          "description": "Above the fold",
+          "template": "CategoryTemplate.tsx"
+        },
+        {
+          "id": "sticky-footer",
+          "name": "Sticky Footer Ad",
+          "description": "Persistent at bottom",
+          "template": "CategoryTemplate.tsx"
+        },
+        {
+          "id": "in-feed-x",
+          "name": "In-Feed Ad (Repeating)",
+          "description": "Repeats every 8 posts",
+          "template": "CategoryTemplate.tsx"
+        }
+      ]
+    },
+    {
+      "type": "website",
+      "label": "Static/Legal Pages",
+      "positions": [
+        {
+          "id": "sticky-footer",
+          "name": "Sticky Footer Ad",
+          "description": "Persistent at bottom",
+          "template": "various"
+        }
+      ]
+    }
+  ]
+}

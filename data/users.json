@@ -1,0 +1,18 @@
+[
+  {
+    "_id": "local-admin",
+    "name": "Admin User",
+    "email": "admin@Trendsposts.com",
+    "passwordHash": "$2a$10$TjvcubH3Q8TcDCbNlCGbReudntmbIPBt5w0iNjj5UDtJwy1o7fz.6",
+    "roles": [
+      "admin",
+      "editor",
+      "author"
+    ],
+    "isActive": true,
+    "invitationTokenHash": null,
+    "invitationExpiresAt": null,
+    "bearertoken": "",
+    "avatarUrl": "https://pxojvcxoqbjgoerywsae.supabase.co/storage/v1/object/public/media/images/1776455039334-stefan-rodriguez-2AovfzYV3rc-unsplash.jpg"
+  }
+]

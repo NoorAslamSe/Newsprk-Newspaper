@@ -1,0 +1,93 @@
+[
+  {
+    "slug": "business",
+    "label": "Business",
+    "color": "#eb0254",
+    "count": 25,
+    "footerLabel": "Hot",
+    "_id": "business",
+    "name": "Business",
+    "locale": "en"
+  },
+  {
+    "slug": "technology",
+    "label": "Technology",
+    "color": "#3b82f6",
+    "count": 22,
+    "_id": "technology",
+    "name": "Technology",
+    "locale": "en"
+  },
+  {
+    "slug": "sports",
+    "label": "Sports",
+    "color": "#10b981",
+    "count": 20,
+    "_id": "sports",
+    "name": "Sports",
+    "locale": "en"
+  },
+  {
+    "slug": "travel",
+    "label": "Travel",
+    "color": "#f59e0b",
+    "count": 18,
+    "_id": "travel",
+    "name": "Travel",
+    "locale": "en"
+  },
+  {
+    "slug": "politics",
+    "label": "Politics",
+    "color": "#8b5cf6",
+    "count": 16,
+    "_id": "politics",
+    "name": "Politics",
+    "locale": "en"
+  },
+  {
+    "slug": "lifestyle",
+    "label": "Lifestyle",
+    "color": "#ec4899",
+    "count": 19,
+    "_id": "lifestyle",
+    "name": "Lifestyle",
+    "locale": "en"
+  },
+  {
+    "slug": "entertainment",
+    "label": "Entertainment",
+    "color": "#ef4444",
+    "count": 21,
+    "_id": "entertainment",
+    "name": "Entertainment",
+    "locale": "en"
+  },
+  {
+    "slug": "fashion",
+    "label": "Fashion",
+    "color": "#d946ef",
+    "count": 14,
+    "_id": "fashion",
+    "name": "Fashion",
+    "locale": "en"
+  },
+  {
+    "slug": "science",
+    "label": "Science",
+    "color": "#06b6d4",
+    "count": 15,
+    "_id": "science",
+    "name": "Science",
+    "locale": "en"
+  },
+  {
+    "slug": "photography",
+    "label": "Photography",
+    "color": "#f97316",
+    "count": 12,
+    "_id": "photography",
+    "name": "Photography",
+    "locale": "en"
+  }
+]

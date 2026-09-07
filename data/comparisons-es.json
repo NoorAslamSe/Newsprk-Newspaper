@@ -1,0 +1,872 @@
+[
+  {
+    "slug": "es-nubank-vs-mercado-pago-banca-digital",
+    "title": "Nubank vs Mercado Pago: Which Digital Bank Is Better in Latin America?",
+    "excerpt": "The fintech giants of Latin America compete for your money. We compare fees, yields, credit, and user experience across Mexico, Brazil, and Colombia.",
+    "category": "business",
+    "categoryLabel": "Fintech",
+    "author": "editorial-latam",
+    "authorName": "TrendsPosts LATAM Team",
+    "date": "2025-07-20T10:00:00+00:00",
+    "readTime": 9,
+    "image": "https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?w=860&h=573&fit=crop",
+    "featured": true,
+    "tags": ["fintech", "nubank", "mercado pago", "digital bank", "latin america"],
+    "views": 31200,
+    "status": "published",
+    "content_type": "comparison",
+    "entity_A": {
+      "name": "Nubank",
+      "image": "https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?w=400&h=400&fit=crop",
+      "priceRange": "Free (no monthly fee)",
+      "offerId": "nubank-mx"
+    },
+    "entity_B": {
+      "name": "Mercado Pago",
+      "image": "https://images.unsplash.com/photo-1556742152-28b30aa77e1c?w=400&h=400&fit=crop",
+      "priceRange": "Free (no monthly fee)",
+      "offerId": "mercadopago-mx"
+    },
+    "verdict_winner": "A",
+    "spec_comparison_matrix": [
+      { "feature": "Monthly Fee", "val_A": "$0", "val_B": "$0", "winner": "tie" },
+      { "feature": "Savings Yield", "val_A": "14.5% (Brazil CDB)", "val_B": "Variable (fondos de inversion)", "winner": "A" },
+      { "feature": "Credit Card", "val_A": "Yes (nu credit)", "val_B": "Yes (tarjeta Mercado)", "winner": "tie" },
+      { "feature": "International Transfers", "val_A": "Limited", "val_B": "Wide (via Mercado Libre)", "winner": "B" },
+      { "feature": "App Experience", "val_A": "Excellent, intuitive", "val_B": "Good, feature-rich", "winner": "A" },
+      { "feature": "Coverage", "val_B": "18 countries", "val_A": "Brazil, Mexico, Colombia", "winner": "B" },
+      { "feature": "Cashback", "val_A": "Up to 5% in select stores", "val_B": "Up to 3% (Mercado Libre purchases)", "winner": "A" }
+    ],
+    "pros_cons_A": [
+      "Highest savings yield in Brazil (14.5% CDB)",
+      "No annual fee on any card",
+      "Best-in-class mobile app experience",
+      "Free international card (Visa)",
+      "NuInvest for stock investing"
+    ],
+    "pros_cons_B": [
+      "Available in 18 countries across Latin America",
+      "Integrated with Mercado Libre marketplace",
+      "More payment options for online shopping",
+      "QR code payments widely accepted",
+      "Mercado Credits for personal loans"
+    ],
+    "when_loser_wins": [
+      "You need banking in more than 3 countries",
+      "You shop frequently on Mercado Libre",
+      "You want integrated marketplace + banking",
+      "You need QR code payment acceptance",
+      "You prefer a bank with physical cash pickup points"
+    ],
+    "page_class": "money",
+    "structural_blocks": {
+      "question_answered": "Nubank wins for savings yields, app experience, and card benefits. Mercado Pago wins for marketplace integration and regional coverage.",
+      "context": "Latin America's fintech revolution has produced two dominant players: Nubank, the world's largest independent digital bank, and Mercado Pago, the payment arm of MercadoLibre. Both offer free accounts but serve different needs.",
+      "comparison": "Nubank's 14.5% savings yield in Brazil and superior app make it the better pure banking experience. Mercado Pago's integration with MercadoLibre and 18-country coverage make it more versatile for commerce. For savings, Nubank wins. For shopping, Mercado Pago wins.",
+      "action": "Choose Nubank for savings, credit, and app experience. Choose Mercado Pago for marketplace integration and regional coverage."
+    },
+    "last_verified_date": "2025-07-15T00:00:00Z",
+    "refresh_due_date": "2026-01-15T00:00:00Z",
+    "reviewer": "TrendsPosts LATAM Editorial",
+    "methodology_ref": "trendsposts-methodology-v1",
+    "affiliate_offer_ids": ["nubank-mx", "mercadopago-mx"],
+    "seo_metadata": {
+      "metaTitle": "Nubank vs Mercado Pago — Mejor Banco Digital en Latinoamérica 2025",
+      "metaDescription": "Comparativa Nubank vs Mercado Pago: tasas de ahorro, tarjetas, comisiones y experiencia en app. ¿Cuál es mejor para ti?",
+      "ogImage": "https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?w=1200&h=630&fit=crop"
+    },
+    "locale": "es",
+    "hreflang_group_id": "es-nubank-vs-mercado-pago-banca-digital"
+  },
+  {
+    "slug": "es-tesla-model-y-vs-byd-seal-mexico",
+    "title": "Tesla Model Y vs BYD Seal: ¿Cuál eléctrica comprar en México?",
+    "excerpt": "Las dos eléctricas más populares de México compiten en precio, autonomía, carga y experiencia. Analizamos cuál conviene más.",
+    "category": "technology",
+    "categoryLabel": "Autos",
+    "author": "editorial-latam",
+    "authorName": "TrendsPosts LATAM Team",
+    "date": "2025-07-18T09:00:00+00:00",
+    "readTime": 10,
+    "image": "https://images.unsplash.com/photo-1560958089-b8a1929cea89?w=860&h=573&fit=crop",
+    "featured": true,
+    "tags": ["autos electricos", "tesla", "byd", "mexico", "movilidad"],
+    "views": 28400,
+    "status": "published",
+    "content_type": "comparison",
+    "entity_A": {
+      "name": "Tesla Model Y",
+      "image": "https://images.unsplash.com/photo-1560958089-b8a1929cea89?w=400&h=400&fit=crop",
+      "priceRange": "$899,900 MXN",
+      "offerId": "tesla-model-y-mx"
+    },
+    "entity_B": {
+      "name": "BYD Seal",
+      "image": "https://images.unsplash.com/photo-1549317661-bd32c8ce0abb?w=400&h=400&fit=crop",
+      "priceRange": "$749,900 MXN",
+      "offerId": "byd-seal-mx"
+    },
+    "verdict_winner": "B",
+    "spec_comparison_matrix": [
+      { "feature": "Autonomía", "val_A": "455 km (WLTP)", "val_B": "520 km (WLTP)", "winner": "B" },
+      { "feature": "Precio", "val_A": "$899,900 MXN", "val_B": "$749,900 MXN", "winner": "B" },
+      { "feature": "Red de carga", "val_A": "Supercharger (más amplia)", "val_B": "Carga pública + doméstica", "winner": "A" },
+      { "feature": "Potencia", "val_A": "299 kW (Long Range)", "val_B": "230 kW", "winner": "A" },
+      { "feature": "0-100 km/h", "val_A": "5.0 segundos", "val_B": "5.9 segundos", "winner": "A" },
+      { "feature": "Garantía", "val_A": "4 años / 80,000 km", "val_B": "6 años / 150,000 km", "winner": "B" },
+      { "feature": "Pantalla", "val_A": "15\" táctil central", "val_B": "15.6\" táctil + instrumentos", "winner": "B" },
+      { "feature": "V2L (carga externa)", "val_A": "No", "val_B": "Sí", "winner": "B" }
+    ],
+    "pros_cons_A": [
+      "Red Supercharger más amplia en México",
+      "Mejor aceleración y rendimiento",
+      "Actualizaciones OTA continuas",
+      "Autopilot incluido",
+      "Mayor valor de reventa"
+    ],
+    "pros_cons_B": [
+      "$150,000 MXN más barata",
+      "50 km más de autonomía",
+      "Garantía de 6 años (vs 4 de Tesla)",
+      "V2L permite cargar otros dispositivos",
+      "Pantalla más grande y instrumentos dedicados"
+    ],
+    "when_loser_wins": [
+      "Necesitas la red de Supercharger para viajes largos",
+      "Prefieres la aceleración y rendimiento de Tesla",
+      "Valoras las actualizaciones OTA de Tesla",
+      "Quieres Autopilot incluido en el modelo base",
+      "Te importa el valor de reventa a largo plazo"
+    ],
+    "page_class": "money",
+    "structural_blocks": {
+      "question_answered": "BYD Seal gana por precio, autonomía y garantía. Tesla Model Y gana por red de carga, rendimiento y tecnología.",
+      "context": "El mercado de autos eléctricos en México está en pleno crecimiento. Tesla abrió el camino, pero BYD llega con precios más agresivos y especificaciones competitivas.",
+      "comparison": "BYD Seal ofrece mejor valor: $150,000 MXN menos, 50 km más de autonomía y garantía de 6 años. Tesla counters con Supercharger, Autopilot y mejor aceleración. Para presupuesto, BYD gana. Para tecnología, Tesla gana.",
+      "action": "Elige Tesla Model Y si valoras la red de Supercharger y tecnología. Elige BYD Seal si buscas mejor precio, autonomía y garantía."
+    },
+    "last_verified_date": "2025-07-15T00:00:00Z",
+    "refresh_due_date": "2026-01-15T00:00:00Z",
+    "reviewer": "TrendsPosts LATAM Editorial",
+    "methodology_ref": "trendsposts-methodology-v1",
+    "affiliate_offer_ids": ["tesla-model-y-mx", "byd-seal-mx"],
+    "seo_metadata": {
+      "metaTitle": "Tesla Model Y vs BYD Seal — Cuál eléctrica comprar en México 2025",
+      "metaDescription": "Tesla Model Y vs BYD Seal: precio, autonomía, carga y garantía comparados para el mercado mexicano.",
+      "ogImage": "https://images.unsplash.com/photo-1560958089-b8a1929cea89?w=1200&h=630&fit=crop"
+    },
+    "locale": "es",
+    "hreflang_group_id": "es-tesla-model-y-vs-byd-seal-mexico"
+  },
+  {
+    "slug": "es-mercadolibre-vs-amazon-mexico",
+    "title": "MercadoLibre vs Amazon México: ¿Dónde conviene comprar en 2025?",
+    "excerpt": "Los gigantes del e-commerce mexicano compiten en precios, tiempos de envío y variedad. Analizamos cuál plataforma ofrece mejor experiencia.",
+    "category": "business",
+    "categoryLabel": "E-commerce",
+    "author": "editorial-latam",
+    "authorName": "TrendsPosts LATAM Team",
+    "date": "2025-07-15T10:00:00+00:00",
+    "readTime": 8,
+    "image": "https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?w=860&h=573&fit=crop",
+    "featured": true,
+    "tags": ["e-commerce", "mercadolibre", "amazon", "mexico", "compras"],
+    "views": 35600,
+    "status": "published",
+    "content_type": "comparison",
+    "entity_A": {
+      "name": "MercadoLibre México",
+      "image": "https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?w=400&h=400&fit=crop",
+      "priceRange": "Envío gratis en pedidos >$299",
+      "offerId": "mercadolibre-mx"
+    },
+    "entity_B": {
+      "name": "Amazon México",
+      "image": "https://images.unsplash.com/photo-1523474253046-8cd2748b5fd2?w=400&h=400&fit=crop",
+      "priceRange": "Prime $99/mes",
+      "offerId": "amazon-mx"
+    },
+    "verdict_winner": "A",
+    "spec_comparison_matrix": [
+      { "feature": "Variedad", "val_A": "300M+ productos", "val_B": "100M+ productos", "winner": "A" },
+      { "feature": "Envío", "val_A": "1-3 días (Mercado Envíos)", "val_B": "1-2 días (Prime)", "winner": "B" },
+      { "feature": "Membresía", "val_A": "Nivel 6 gratis con compras", "val_B": "Prime $99/mes", "winner": "A" },
+      { "feature": "Pagos", "val_A": "Mercado Pago (cuotas)", "val_B": "Tarjeta, OXXO, cuotas", "winner": "tie" },
+      { "feature": "Ventas", "val_A": "Mayoristas y particulares", "val_B": "Solo vendedores verificados", "winner": "A" },
+      { "feature": "Garantía", "val_A": "Mercado Garantía", "val_B": "Amazon A-to-Z", "winner": "tie" },
+      { "feature": "Streaming", "val_A": "Mercado Play (gratis)", "val_B": "Prime Video ($99/mes incluido)", "winner": "tie" }
+    ],
+    "pros_cons_A": [
+      "Mayor variedad de productos y vendedores",
+      "Nivel 6 gratis sin membresía paga",
+      "Mercado Pago permite pagos en cuotas",
+      "Mercado Play incluido gratis",
+      "Mejor para vender como particular"
+    ],
+    "pros_cons_B": [
+      "Envío Prime más rápido y confiable",
+      "Productos verificados de mayor calidad",
+      "Prime Video incluido con membresía",
+      "Devoluciones más sencillas",
+      "Marcas internacionales exclusivas"
+    ],
+    "when_loser_wins": [
+      "Quieres Prime Video incluido con tu membresía",
+      "Prefieres productos verificados y de marca",
+      "Necesitas devoluciones más sencillas",
+      "Buscas marcas internacionales exclusivas",
+      "Valores la confiabilidad del envío Prime"
+    ],
+    "page_class": "money",
+    "structural_blocks": {
+      "question_answered": "MercadoLibre gana por variedad, membresía gratis y pagos flexibles. Amazon gana por velocidad de envío y calidad de productos.",
+      "context": "MercadoLibre y Amazon compiten por el mercado de e-commerce mexicano. MercadoLibre tiene raíces latinas y mayor variedad; Amazon ofrece la infraestructura global de Prime.",
+      "comparison": "MercadoLibre domina en variedad y modelo de negocio flexible (Nivel 6 gratis). Amazon supera en velocidad de envío y verificación de productos. Para compradores frecuentes, MercadoLibre es más accesible. Para calidad garantizada, Amazon es más confiable.",
+      "action": "Elige MercadoLibre para variedad y membresía gratis. Elige Amazon Prime para envío rápido y Prime Video."
+    },
+    "last_verified_date": "2025-07-12T00:00:00Z",
+    "refresh_due_date": "2026-01-12T00:00:00Z",
+    "reviewer": "TrendsPosts LATAM Editorial",
+    "methodology_ref": "trendsposts-methodology-v1",
+    "affiliate_offer_ids": ["mercadolibre-mx", "amazon-mx"],
+    "seo_metadata": {
+      "metaTitle": "MercadoLibre vs Amazon México — Dónde comprar mejor en 2025",
+      "metaDescription": "MercadoLibre vs Amazon México: precios, envío, variedad y membresía comparadas. Encuentra la mejor plataforma de compras.",
+      "ogImage": "https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?w=1200&h=630&fit=crop"
+    },
+    "locale": "es",
+    "hreflang_group_id": "es-mercadolibre-vs-amazon-mexico"
+  },
+  {
+    "slug": "es-futbol-mexicano-vs-argentino-2025",
+    "title": "Liga MX vs Liga Argentina: ¿Qué liga sudamericana es mejor en 2025?",
+    "excerpt": "Las dos ligas más fuertes de América Latina se comparan en calidad de juego, presupuesto, exportación de jugadores y audiencia.",
+    "category": "entertainment",
+    "categoryLabel": "Fútbol",
+    "author": "editorial-latam",
+    "authorName": "TrendsPosts LATAM Team",
+    "date": "2025-07-12T10:00:00+00:00",
+    "readTime": 8,
+    "image": "https://images.unsplash.com/photo-1431324155629-1a6deb1dec8d?w=860&h=573&fit=crop",
+    "featured": false,
+    "tags": ["fútbol", "liga mx", "liga argentina", "sudamérica", "deportes"],
+    "views": 42100,
+    "status": "published",
+    "content_type": "comparison",
+    "entity_A": {
+      "name": "Liga MX",
+      "image": "https://images.unsplash.com/photo-1431324155629-1a6deb1dec8d?w=400&h=400&fit=crop",
+      "priceRange": "",
+      "offerId": "liga-mx-tv"
+    },
+    "entity_B": {
+      "name": "Liga Profesional Argentina",
+      "image": "https://images.unsplash.com/photo-1522778119026-d647f0596c20?w=400&h=400&fit=crop",
+      "priceRange": "",
+      "offerId": "liga-argentina-tv"
+    },
+    "verdict_winner": "A",
+    "spec_comparison_matrix": [
+      { "feature": "Calidad media", "val_A": "Alta (más extranjeros)", "val_B": "Alta (más canteranos)", "winner": "tie" },
+      { "feature": "Presupuesto", "val_A": "$2.5B USD total", "val_B": "$800M USD total", "winner": "A" },
+      { "feature": "Exportación", "val_A": "Jugadores a Europa", "val_B": "Mayor exportador de América", "winner": "B" },
+      { "feature": "Audiencia TV", "val_A": "15M por clásico", "val_B": "8M por superclásico", "winner": "A" },
+      { "feature": "Formato", "val_A": "Liguilla (playoffs)", "val_B": "Torneo regular + copa", "winner": "tie" },
+      { "feature": "Estadios", "val_A": "Modernos (Azteca, BBVA)", "val_B": "Históricos (La Bombonera, Monumental)", "winner": "tie" },
+      { "feature": "Copa Libertadores", "val_A": "2 títulos (último 2024)", "val_B": "25 títulos", "winner": "B" }
+    ],
+    "pros_cons_A": [
+      "Mayor presupuesto atrae mejores jugadores",
+      "Mejor infraestructura de estadios",
+      "Audiencia televisiva más grande",
+      "Formato de liguilla genera emoción",
+      "Más inversionistas extranjeros"
+    ],
+    "pros_cons_B": [
+      "Mayor exportación de talento a Europa",
+      "25 títulos de Copa Libertadores (vs 2 de MX)",
+      "Pasión de las barras y ambiente único",
+      "Mejor formación de juveniles",
+      "Más historia y tradición futbolística"
+    ],
+    "when_loser_wins": [
+      "Valores más la infraestructura y modernización",
+      "Prefieres un formato con playoffs emocionantes",
+      "Quieres ver más estrellas extranjeras",
+      "Te importa la audiencia y la producción TV",
+      "Prefieres estadios modernos y cómodos"
+    ],
+    "page_class": "support",
+    "structural_blocks": {
+      "question_answered": "Liga MX gana en presupuesto e infraestructura. Liga Argentina gana en historia, pasión y producción de talento.",
+      "context": "El fútbol latinoamericano tiene dos ligas dominantes: la Liga MX mexicana y la Liga Profesional argentina. Ambas compiten por ser la mejor de América Latina, pero sus fortalezas son diferentes.",
+      "comparison": "Liga MX tiene mayor presupuesto y modernidad. Liga Argentina tiene más historia y produce más talento para Europa. Para espectáculo moderno, MX gana. Para pasión y tradición, Argentina gana.",
+      "action": "Sigue la Liga MX si prefieres presupuesto alto y modernidad. Sigue la Liga Argentina si valoras historia y pasión futbolística."
+    },
+    "last_verified_date": "2025-07-10T00:00:00Z",
+    "refresh_due_date": "2026-01-10T00:00:00Z",
+    "reviewer": "TrendsPosts LATAM Editorial",
+    "methodology_ref": "trendsposts-methodology-v1",
+    "affiliate_offer_ids": ["liga-mx-tv", "liga-argentina-tv"],
+    "seo_metadata": {
+      "metaTitle": "Liga MX vs Liga Argentina — ¿Qué liga sudamericana es mejor 2025?",
+      "metaDescription": "Liga MX vs Liga Argentina: calidad, presupuesto, exportación y audiencia comparadas. ¿Cuál es la mejor liga de América Latina?",
+      "ogImage": "https://images.unsplash.com/photo-1431324155629-1a6deb1dec8d?w=1200&h=630&fit=crop"
+    },
+    "locale": "es",
+    "hreflang_group_id": "es-futbol-mexicano-vs-argentino-2025"
+  },
+  {
+    "slug": "es-cafe-colombiano-vs-brasileño",
+    "title": "Café colombiano vs café brasileño: ¿Cuál es mejor?",
+    "excerpt": "Los dos gigantes del café mundial compiten en sostenibilidad, sabor, producción y exportación. Analizamos cuál taza es superior.",
+    "category": "lifestyle",
+    "categoryLabel": "Gastronomía",
+    "author": "editorial-latam",
+    "authorName": "TrendsPosts LATAM Team",
+    "date": "2025-07-10T10:00:00+00:00",
+    "readTime": 7,
+    "image": "https://images.unsplash.com/photo-1447933601403-0c6688de566e?w=860&h=573&fit=crop",
+    "featured": false,
+    "tags": ["café", "colombia", "brasil", "gastronomía", "sostenibilidad"],
+    "views": 19800,
+    "status": "published",
+    "content_type": "comparison",
+    "entity_A": {
+      "name": "Café Colombiano (Arábica)",
+      "image": "https://images.unsplash.com/photo-1447933601403-0c6688de566e?w=400&h=400&fit=crop",
+      "priceRange": "$12-25/lb",
+      "offerId": "cafe-colombiano"
+    },
+    "entity_B": {
+      "name": "Café Brasileño (Arábica + Robusta)",
+      "image": "https://images.unsplash.com/photo-1514432324607-a09d9b4aefda?w=400&h=400&fit=crop",
+      "priceRange": "$3-15/lb",
+      "offerId": "cafe-brasileño"
+    },
+    "verdict_winner": "A",
+    "spec_comparison_matrix": [
+      { "feature": "Variedad", "val_A": "100% Arábica (especialidad)", "val_B": "Arábica + Robusta (comercial)", "winner": "A" },
+      { "feature": "Producción", "val_A": "12M sacos/año", "val_B": "65M sacos/año (#1 mundial)", "winner": "B" },
+      { "feature": "Precio", "val_A": "$12-25/lb (especialidad)", "val_B": "$3-15/lb (comercial)", "winner": "B" },
+      { "feature": "Sabor", "val_A": "Notas frutales, cuerpo medio", "val_B": "Chocolate, nuez, cuerpo completo", "winner": "tie" },
+      { "feature": "Sostenibilidad", "val_A": "Certificaciones Rain Forest", "val_B": "Producción masiva, menos certificación", "winner": "A" },
+      { "feature": "Exportación", "val_B": "Mayor exportador mundial", "val_A": "2do exportador", "winner": "B" },
+      { "feature": "Reputación", "val_A": "Juan Valdez, marca premium", "val_B": "Base para mezclas", "winner": "A" }
+    ],
+    "pros_cons_A": [
+      "100% Arábica de alta calidad",
+      "Notas frutales únicas de altitude",
+      "Certificaciones de sostenibilidad",
+      "Marca Colombia reconocida mundialmente",
+      "Menor producción = mayor exclusividad"
+    ],
+    "pros_cons_B": [
+      "Mayor productor y exportador del mundo",
+      "Precio más accesible para el consumidor",
+      "Sabor chocolateado más versátil",
+      "Producción a gran escala confiable",
+      "Base para la mayoría de mezclas comerciales"
+    ],
+    "when_loser_wins": [
+      "Quieres café de especialidad premium",
+      "Valoras la sostenibilidad y certificaciones",
+      "Prefieres notas frutales y ácidas",
+      "Buscas exclusividad y origen single-origin",
+      "Te importa la marca y reputación del café"
+    ],
+    "page_class": "support",
+    "structural_blocks": {
+      "question_answered": "Colombia gana en calidad premium y sostenibilidad. Brasil gana en producción, precio y versatilidad.",
+      "context": "Colombia y Brasil son los dos gigantes del café en América Latina. Colombia se especializa en café de alta calidad (100% Arábica), mientras Brasil domina la producción masiva.",
+      "comparison": "El café colombiano es superior en calidad y sostenibilidad. El café brasileño es más accesible y versátil. Para espresso y mezclas, Brasil es la base. Para single-origin premium, Colombia es incomparable.",
+      "action": "Elige colombiano para café de especialidad de origen único. Elige brasileño para mezclas y café diario de buena calidad."
+    },
+    "last_verified_date": "2025-07-08T00:00:00Z",
+    "refresh_due_date": "2026-01-08T00:00:00Z",
+    "reviewer": "TrendsPosts LATAM Editorial",
+    "methodology_ref": "trendsposts-methodology-v1",
+    "affiliate_offer_ids": ["cafe-colombiano", "cafe-brasileño"],
+    "seo_metadata": {
+      "metaTitle": "Café Colombiano vs Brasileño — ¿Cuál es mejor calidad?",
+      "metaDescription": "Café colombiano vs brasileño: sabor, calidad, precio y sostenibilidad comparados. ¿Cuál es la mejor taza de América Latina?",
+      "ogImage": "https://images.unsplash.com/photo-1447933601403-0c6688de566e?w=1200&h=630&fit=crop"
+    },
+    "locale": "es",
+    "hreflang_group_id": "es-cafe-colombiano-vs-brasileño"
+  },
+  {
+    "slug": "es-playstation-5-vs-xbox-series-x-latam",
+    "title": "PlayStation 5 vs Xbox Series X: ¿Qué consola comprar en Latinoamérica?",
+    "excerpt": "Las consolas de nueva generación llegan a Latinoamérica con precios elevados. Comparamos catálogo, servicios, precio y disponibilidad.",
+    "category": "entertainment",
+    "categoryLabel": "Gaming",
+    "author": "editorial-latam",
+    "authorName": "TrendsPosts LATAM Team",
+    "date": "2025-07-08T10:00:00+00:00",
+    "readTime": 9,
+    "image": "https://images.unsplash.com/photo-1606144042614-b2417e99c4e3?w=860&h=573&fit=crop",
+    "featured": false,
+    "tags": ["gaming", "playstation", "xbox", "consolas", "latam"],
+    "views": 28900,
+    "status": "published",
+    "content_type": "comparison",
+    "entity_A": {
+      "name": "PlayStation 5",
+      "image": "https://images.unsplash.com/photo-1606144042614-b2417e99c4e3?w=400&h=400&fit=crop",
+      "priceRange": "$14,999 MXN / $599 USD",
+      "offerId": "ps5-latam"
+    },
+    "entity_B": {
+      "name": "Xbox Series X",
+      "image": "https://images.unsplash.com/photo-1621259182978-fbf93132d53d?w=400&h=400&fit=crop",
+      "priceRange": "$13,999 MXN / $499 USD",
+      "offerId": "xbox-sx-latam"
+    },
+    "verdict_winner": "A",
+    "spec_comparison_matrix": [
+      { "feature": "Precio", "val_A": "$14,999 MXN", "val_B": "$13,999 MXN", "winner": "B" },
+      { "feature": "Juegos exclusivos", "val_A": "Spider-Man, God of War, TLOU", "val_B": "Starfield, Halo, Forza", "winner": "A" },
+      { "feature": "Game Pass", "val_B": "Incluye cientos de juegos", "val_A": "PS Plus (menos contenido)", "winner": "B" },
+      { "feature": "Disponibilidad", "val_A": "Amplia en LATAM", "val_B": "Limitada en algunos países", "winner": "A" },
+      { "feature": "Retrocompatibilidad", "val_A": "PS4, selección PS1-PS3", "val_B": "Xbox, Xbox 360, Xbox One", "winner": "B" },
+      { "feature": "VR", "val_A": "PSVR2 disponible", "val_B": "No disponible", "winner": "A" },
+      { "feature": "Almacenamiento", "val_A": "825 GB SSD", "val_B": "1 TB SSD", "winner": "B" }
+    ],
+    "pros_cons_A": [
+      "Mejores juegos exclusivos",
+      "DualSense para experiencia inmersiva",
+      "PSVR2 para realidad virtual",
+      "Mayor disponibilidad en tiendas latam",
+      "Comunidad más grande en la región"
+    ],
+    "pros_cons_B": [
+      "Game Pass ahorra mucho a largo plazo",
+      "Retrocompatibilidad más amplia",
+      "$1,000 MXN más barata",
+      "1 TB de almacenamiento",
+      "Xbox Cloud Gaming incluido"
+    ],
+    "when_loser_wins": [
+      "Tu presupuesto es limitado",
+      "Quieres Game Pass para ahorrar en juegos",
+      "Te gustan los juegos retro de Xbox",
+      "No encuentras PS5 en tu país",
+      "Prefieres cloud gaming"
+    ],
+    "page_class": "money",
+    "structural_blocks": {
+      "question_answered": "PS5 gana por juegos exclusivos y disponibilidad. Xbox gana por Game Pass, precio y retrocompatibilidad.",
+      "context": "Las consolas de nueva generación llegaron a Latinoamérica con precios altos. PS5 tiene mejor disponibilidad; Xbox es más barata pero harder de encontrar en algunos países.",
+      "comparison": "PS5 domina en exclusivos y experiencia inmersiva (DualSense, PSVR2). Xbox counter con Game Pass, precio más bajo y retrocompatibilidad amplia. Para juegos exclusivos, PS5. Para valor y suscripción, Xbox.",
+      "action": "Elige PS5 por juegos exclusivos y disponibilidad. Elige Xbox por Game Pass y precio más bajo."
+    },
+    "last_verified_date": "2025-07-05T00:00:00Z",
+    "refresh_due_date": "2026-01-05T00:00:00Z",
+    "reviewer": "TrendsPosts LATAM Editorial",
+    "methodology_ref": "trendsposts-methodology-v1",
+    "affiliate_offer_ids": ["ps5-latam", "xbox-sx-latam"],
+    "seo_metadata": {
+      "metaTitle": "PlayStation 5 vs Xbox Series X — Qué consola comprar en Latinoamérica 2025",
+      "metaDescription": "PS5 vs Xbox Series X: precio, juegos exclusivos, Game Pass y disponibilidad en Latinoamérica comparados.",
+      "ogImage": "https://images.unsplash.com/photo-1606144042614-b2417e99c4e3?w=1200&h=630&fit=crop"
+    },
+    "locale": "es",
+    "hreflang_group_id": "es-playstation-5-vs-xbox-series-x-latam"
+  },
+  {
+    "slug": "es-starbucks-vs-cafe-de-origen",
+    "title": "Starbucks vs café de origen en LATAM: ¿Cuál es mejor para tu café diario?",
+    "excerpt": "La cadena global versus los cafés de especialidad locales. Analizamos calidad, precio, experiencia y apoyo a productores locales.",
+    "category": "lifestyle",
+    "categoryLabel": "Gastronomía",
+    "author": "editorial-latam",
+    "authorName": "TrendsPosts LATAM Team",
+    "date": "2025-07-05T10:00:00+00:00",
+    "readTime": 7,
+    "image": "https://images.unsplash.com/photo-1501339847302-ac426a4a7cbb?w=860&h=573&fit=crop",
+    "featured": false,
+    "tags": ["café", "starbucks", "especialidad", "gastronomía", "latam"],
+    "views": 16400,
+    "status": "published",
+    "content_type": "comparison",
+    "entity_A": {
+      "name": "Starbucks",
+      "image": "https://images.unsplash.com/photo-1501339847302-ac426a4a7cbb?w=400&h=400&fit=crop",
+      "priceRange": "$60-120 MXN por bebida",
+      "offerId": "starbucks-mx"
+    },
+    "entity_B": {
+      "name": "Café de Origen Local",
+      "image": "https://images.unsplash.com/photo-1495474472287-4d71bcdd2085?w=400&h=400&fit=crop",
+      "priceRange": "$40-80 MXN por bebida",
+      "offerId": "cafe-origen-local"
+    },
+    "verdict_winner": "B",
+    "spec_comparison_matrix": [
+      { "feature": "Calidad del café", "val_A": "Estándar (comercial)", "val_B": "Especialidad (single-origin)", "winner": "B" },
+      { "feature": "Precio", "val_A": "$60-120 MXN", "val_B": "$40-80 MXN", "winner": "B" },
+      { "feature": "Conveniencia", "val_A": "28,000+ tiendas globales", "val_B": "Pocas tiendas locales", "winner": "A" },
+      { "feature": "Experiencia", "val_A": "Estandarizada, WiFi gratis", "val_B": "Única, personalizada", "winner": "B" },
+      { "feature": "Tostadores", "val_A": "Industrial", "val_B": "Artesanal, recién tostado", "winner": "B" },
+      { "feature": "Apoyo local", "val_A": "Corporación multinational", "val_B": "Productores locales directamente", "winner": "B" },
+      { "feature": "Menú", "val_A": "Amplio (frappuccinos, snacks)", "val_B": "Café enfocado", "winner": "A" }
+    ],
+    "pros_cons_A": [
+      "Siempre encuentras una Starbucks cerca",
+      "Menú variado con opciones no-cafeteras",
+      "Programa de lealtad (Starbucks Rewards)",
+      "WiFi gratis y espacio de trabajo",
+      "Consistencia global en cada taza"
+    ],
+    "pros_cons_B": [
+      "Café de mayor calidad (especialidad)",
+      "Apoyas directamente a productores locales",
+      "Tueste artesanal y recién hecho",
+      "Experiencia única y personalizada",
+      "Menor huella de carbono (menos transporte)"
+    ],
+    "when_loser_wins": [
+      "Necesitas conveniencia y ubicación cercana",
+      "Quieres un menú amplio más allá del café",
+      "Buscas WiFi gratis y espacio de trabajo",
+      "Valoras la consistencia y el programa de lealtad",
+      "Prefieres bebidas especiales (frappuccinos)"
+    ],
+    "page_class": "support",
+    "structural_blocks": {
+      "question_answered": "El café de origen local gana en calidad, precio y apoyo a productores. Starbucks gana en conveniencia y menú variado.",
+      "context": "La cultura del café en Latinoamérica está evolucionando. Starbucks trae la experiencia global, mientras los cafés de especialidad locales elevan la calidad del café que la región produce.",
+      "comparison": "Starbucks ofrece conveniencia y consistencia. El café de origen ofrece mejor calidad, precio y conexión directa con productores. Para café diario, el origen gana. Para conveniencia, Starbucks gana.",
+      "action": "Elige Starbucks por conveniencia y menú variado. Elige café de origen por calidad, precio y apoyo a productores locales."
+    },
+    "last_verified_date": "2025-07-01T00:00:00Z",
+    "refresh_due_date": "2026-01-01T00:00:00Z",
+    "reviewer": "TrendsPosts LATAM Editorial",
+    "methodology_ref": "trendsposts-methodology-v1",
+    "affiliate_offer_ids": ["starbucks-mx", "cafe-origen-local"],
+    "seo_metadata": {
+      "metaTitle": "Starbucks vs Café de Origen — Cuál es mejor para tu café diario en LATAM",
+      "metaDescription": "Starbucks vs café de especialidad local: calidad, precio, experiencia y apoyo a productores comparados.",
+      "ogImage": "https://images.unsplash.com/photo-1501339847302-ac426a4a7cbb?w=1200&h=630&fit=crop"
+    },
+    "locale": "es",
+    "hreflang_group_id": "es-starbucks-vs-cafe-de-origen"
+  },
+  {
+    "slug": "es-bbva-vs-santander-mexico",
+    "title": "BBVA vs Santander México: ¿Cuál banco elegir en 2025?",
+    "excerpt": "Los dos bancos más grandes de México compiten en comisiones, tasas, app digital y atención. Analizamos cuál ofrece mejor experiencia.",
+    "category": "business",
+    "categoryLabel": "Banca",
+    "author": "editorial-latam",
+    "authorName": "TrendsPosts LATAM Team",
+    "date": "2025-07-01T10:00:00+00:00",
+    "readTime": 8,
+    "image": "https://images.unsplash.com/photo-1554224155-6726b3ff858f?w=860&h=573&fit=crop",
+    "featured": false,
+    "tags": ["banca", "bbva", "santander", "mexico", "finanzas"],
+    "views": 22300,
+    "status": "published",
+    "content_type": "comparison",
+    "entity_A": {
+      "name": "BBVA México",
+      "image": "https://images.unsplash.com/photo-1554224155-6726b3ff858f?w=400&h=400&fit=crop",
+      "priceRange": "Cuenta gratis con nómina",
+      "offerId": "bbva-mx"
+    },
+    "entity_B": {
+      "name": "Santander México",
+      "image": "https://images.unsplash.com/photo-1601597111158-2fceff292cdc?w=400&h=400&fit=crop",
+      "priceRange": "Cuenta gratis con nómina",
+      "offerId": "santander-mx"
+    },
+    "verdict_winner": "A",
+    "spec_comparison_matrix": [
+      { "feature": "Comisión mensual", "val_A": "$0 con nómina, $130 sin ella", "val_B": "$0 con nómina, $150 sin ella", "winner": "A" },
+      { "feature": "App móvil", "val_A": "Excelente, Biometrico", "val_B": "Buena, SuperMóvil", "winner": "A" },
+      { "feature": "Transferencias SPEI", "val_A": "Instantáneas, gratis", "val_B": "Instantáneas, gratis", "winner": "tie" },
+      { "feature": "Tarjeta de crédito", "val_A": "Amex, Visa, Mastercard", "val_B": "Visa, Mastercard", "winner": "A" },
+      { "feature": "Cajeros", "val_A": "17,000+ cajeros", "val_B": "12,000+ cajeros", "winner": "A" },
+      { "feature": "Préstamos", "val_A": "Desde 11.9% CAT", "val_B": "Desde 12.5% CAT", "winner": "A" },
+      { "feature": "Puntos/Recompensas", "val_A": "Programa BBVA", "val_B": "SuperCancela, puntos Santander", "winner": "tie" }
+    ],
+    "pros_cons_A": [
+      "La app más completa del país",
+      "Mayor red de cajeros en México",
+      "Comisiones más bajas para cuentas sin nómina",
+      "Hipotecarios con mejores tasas",
+      "Banca en línea estable y segura"
+    ],
+    "pros_cons_B": [
+      "SuperCancela te devuelve comisiones",
+      "Programa de puntos más flexible",
+      "Oficinas con mejor atención personalizada",
+      "Alianzas con comercios frecuentes",
+      "Tarjetas con beneficios de viaje"
+    ],
+    "when_loser_wins": [
+      "Tu empresa paga nómina en Santander",
+      "Viajas frecuentemente y necesitas puntos",
+      "Prefieres atención presencial en sucursal",
+      "Quieres una tarjeta con beneficios de viaje",
+      "Usas SuperCancela para recuperar comisiones"
+    ],
+    "page_class": "money",
+    "structural_blocks": {
+      "question_answered": "BBVA gana en app digital, cajeros y comisiones. Santander gana en atención personalizada y beneficios de viaje.",
+      "context": "BBVA y Santander son los dos bancos más grandes de México por número de clientes. Ambos han invertido fuertemente en banca digital, pero su enfoque es diferente.",
+      "comparison": "BBVA domina en banca digital con la app más completa y la mayor red de cajeros. Santander compensa con programas de lealtad y atención personalizada. Para uso digital, BBVA gana. Para clientes que valoran atención humana, Santander es mejor.",
+      "action": "Elige BBVA si priorizas app digital y bajo costo. Elige Santander si valoras atención personalizada y programas de puntos."
+    },
+    "last_verified_date": "2025-06-28T00:00:00Z",
+    "refresh_due_date": "2025-12-28T00:00:00Z",
+    "reviewer": "TrendsPosts LATAM Editorial",
+    "methodology_ref": "trendsposts-methodology-v1",
+    "affiliate_offer_ids": ["bbva-mx", "santander-mx"],
+    "seo_metadata": {
+      "metaTitle": "BBVA vs Santander México — Cuál banco elegir en 2025",
+      "metaDescription": "BBVA vs Santander México: comisiones, app, cajeros y atención comparados. Encuentra el mejor banco para ti.",
+      "ogImage": "https://images.unsplash.com/photo-1554224155-6726b3ff858f?w=1200&h=630&fit=crop"
+    },
+    "locale": "es",
+    "hreflang_group_id": "es-bbva-vs-santander-mexico"
+  },
+  {
+    "slug": "es-rappi-vs-uber-eats-mexico",
+    "title": "Rappi vs Uber Eats México: ¿Cuál app de delivery es mejor?",
+    "excerpt": "Los dos gigantes del delivery en México compiten en precios, tiempos de envío y variedad de restaurantes. Analizamos cuál conviene más.",
+    "category": "lifestyle",
+    "categoryLabel": "Delivery",
+    "author": "editorial-latam",
+    "authorName": "TrendsPosts LATAM Team",
+    "date": "2025-06-28T10:00:00+00:00",
+    "readTime": 7,
+    "image": "https://images.unsplash.com/photo-1526367790999-0150786686a2?w=860&h=573&fit=crop",
+    "featured": false,
+    "tags": ["delivery", "rappi", "uber eats", "mexico", "comida"],
+    "views": 18900,
+    "status": "published",
+    "content_type": "comparison",
+    "entity_A": {
+      "name": "Rappi",
+      "image": "https://images.unsplash.com/photo-1526367790999-0150786686a2?w=400&h=400&fit=crop",
+      "priceRange": "Rappi Prime $49/mes",
+      "offerId": "rappi-mx"
+    },
+    "entity_B": {
+      "name": "Uber Eats",
+      "image": "https://images.unsplash.com/photo-1521747116042-5a810fda9664?w=400&h=400&fit=crop",
+      "priceRange": "Uber One $99/mes",
+      "offerId": "uber-eats-mx"
+    },
+    "verdict_winner": "A",
+    "spec_comparison_matrix": [
+      { "feature": "Costo de envío", "val_A": "Gratis con Rappi Prime", "val_B": "Gratis con Uber One ($99/mes)", "winner": "A" },
+      { "feature": "Membresía", "val_A": "Rappi Prime $49/mes", "val_B": "Uber One $99/mes", "winner": "A" },
+      { "feature": "Restaurantes", "val_A": "25,000+ aliados", "val_B": "30,000+ aliados", "winner": "B" },
+      { "feature": "Tiempo de envío", "val_A": "25-40 min promedio", "val_B": "20-35 min promedio", "winner": "B" },
+      { "feature": "Categorías", "val_A": "Comida, super, farmacia, paquetería", "val_B": "Comida, super, conveniencia", "winner": "A" },
+      { "feature": "Cupones", "val_A": "Frecuentes y agresivos", "val_B": "Menos frecuentes", "winner": "A" },
+      { "feature": "Pagos", "val_A": "Efectivo, tarjeta, RappiCard", "val_B": "Tarjeta, PayPal, Uber Cash", "winner": "tie" }
+    ],
+    "pros_cons_A": [
+      "Membresía más barata ($49 vs $99)",
+      "Entrega supermercado y farmacia",
+      "Paquetería y envíos incluidos",
+      "Cupones de descuento más frecuentes",
+      "RappiCard con cashback"
+    ],
+    "pros_cons_B": [
+      "Mayor red de restaurantes",
+      "Envíos más rápidos en promedio",
+      "Integración con Uber (viajes + delivery)",
+      "Interfaz de app más pulida",
+      "Uber Cash con bonificaciones"
+    ],
+    "when_loser_wins": [
+      "Solo usas delivery de comida (no super ni farmacia)",
+      "Quieres la app más rápida en tu zona",
+      "Ya tienes Uber One por los viajes de Uber",
+      "Prefieres una interfaz más simple",
+      "Necesitas restaurantes premium/exclusivos"
+    ],
+    "page_class": "support",
+    "structural_blocks": {
+      "question_answered": "Rappi gana en precio de membresía y variedad de servicios. Uber Eats gana en velocidad y variedad de restaurantes.",
+      "context": "El mercado de delivery en México ha crecido un 40% en los últimos dos años. Rappi, con raíces colombianas, y Uber Eats compiten por el dominio del mercado.",
+      "comparison": "Rappi ofrece mejor valor con membresía más barata y servicios adicionales (super, farmacia, paquetería). Uber Eats tiene mayor variedad de restaurantes y tiempos más rápidos. Para uso multifunción, Rappi gana. Para comida rápida, Uber Eats gana.",
+      "action": "Elige Rappi por membresía barata y servicios extra. Elige Uber Eats por velocidad y variedad de restaurantes."
+    },
+    "last_verified_date": "2025-06-25T00:00:00Z",
+    "refresh_due_date": "2025-12-25T00:00:00Z",
+    "reviewer": "TrendsPosts LATAM Editorial",
+    "methodology_ref": "trendsposts-methodology-v1",
+    "affiliate_offer_ids": ["rappi-mx", "uber-eats-mx"],
+    "seo_metadata": {
+      "metaTitle": "Rappi vs Uber Eats México — Cuál app de delivery es mejor 2025",
+      "metaDescription": "Rappi vs Uber Eats México: precios, tiempos, variedad y membresía comparadas. Encuentra la mejor app de delivery.",
+      "ogImage": "https://images.unsplash.com/photo-1526367790999-0150786686a2?w=1200&h=630&fit=crop"
+    },
+    "locale": "es",
+    "hreflang_group_id": "es-rappi-vs-uber-eats-mexico"
+  },
+  {
+    "slug": "es-claro-vs-movistar-colombia",
+    "title": "Claro vs Movistar Colombia: ¿Cuál operador elegir en 2025?",
+    "excerpt": "Los dos operadores más grandes de Colombia compiten en cobertura, precios, velocidad y atención. Analizamos cuál ofrece mejor servicio.",
+    "category": "technology",
+    "categoryLabel": "Telecomunicaciones",
+    "author": "editorial-latam",
+    "authorName": "TrendsPosts LATAM Team",
+    "date": "2025-06-25T10:00:00+00:00",
+    "readTime": 8,
+    "image": "https://images.unsplash.com/photo-1611532736597-de2d4265fba3?w=860&h=573&fit=crop",
+    "featured": false,
+    "tags": ["telecomunicaciones", "claro", "movistar", "colombia", "celular"],
+    "views": 15600,
+    "status": "published",
+    "content_type": "comparison",
+    "entity_A": {
+      "name": "Claro Colombia",
+      "image": "https://images.unsplash.com/photo-1611532736597-de2d4265fba3?w=400&h=400&fit=crop",
+      "priceRange": "Planes desde $20,000 COP/mes",
+      "offerId": "claro-co"
+    },
+    "entity_B": {
+      "name": "Movistar Colombia",
+      "image": "https://images.unsplash.com/photo-1598327105666-5b89351aff97?w=400&h=400&fit=crop",
+      "priceRange": "Planes desde $18,000 COP/mes",
+      "offerId": "movistar-co"
+    },
+    "verdict_winner": "A",
+    "spec_comparison_matrix": [
+      { "feature": "Cobertura 4G", "val_A": "95% población", "val_B": "92% población", "winner": "A" },
+      { "feature": "Velocidad promedio", "val_A": "25 Mbps", "val_B": "20 Mbps", "winner": "A" },
+      { "feature": "Precio", "val_A": "Desde $20,000 COP", "val_B": "Desde $18,000 COP", "winner": "B" },
+      { "feature": "5G", "val_A": "Disponible en Bogotá, Medellín", "val_B": "Limitado a Bogotá", "winner": "A" },
+      { "feature": "Fibra óptica", "val_A": "Claro Hogar desde $60,000", "val_B": "Movistar Hogar desde $55,000", "winner": "B" },
+      { "feature": "Servicio al cliente", "val_A": "Regular", "val_B": "Regular", "winner": "tie" },
+      { "feature": "Roaming", "val_A": "Amplio en Latinoamérica", "val_B": "Europeo y americano", "winner": "tie" }
+    ],
+    "pros_cons_A": [
+      "Mayor cobertura 4G en el país",
+      "Velocidades más altas en promedio",
+      "5G disponible en más ciudades",
+      "Red de tiendas más amplia",
+      "Paquetes familiares con descuento"
+    ],
+    "pros_cons_B": [
+      "Planes más económicos enprepago",
+      "Fibra óptica con mejor precio",
+      "Roaming europeo incluido en planes altos",
+      "Puntos Movistar canjeables",
+      "Paquetes flexibles sin permanencia"
+    ],
+    "when_loser_wins": [
+      "Tu prioridad es el precio mensual",
+      "Viajas frecuentemente a Europa",
+      "No necesitas la máxima velocidad",
+      "Prefieres planes sin permanencia",
+      "Quieres fibra óptica más barata"
+    ],
+    "page_class": "money",
+    "structural_blocks": {
+      "question_answered": "Claro gana en cobertura, velocidad y 5G. Movistar gana en precio y fibra óptica.",
+      "context": "El mercado de telecomunicaciones en Colombia está dominado por Claro (América Móvil) y Movistar (Telefónica). Ambos compiten agresivamente por la clients base.",
+      "comparison": "Claro tiene mejor infraestructura con mayor cobertura y velocidades. Movistar compensa con precios más bajos y fibra óptica competitiva. Para velocidad y cobertura, Claro gana. Para presupuesto ajustado, Movistar gana.",
+      "action": "Elige Claro por cobertura y velocidad. Elige Movistar por precio y fibra óptica."
+    },
+    "last_verified_date": "2025-06-22T00:00:00Z",
+    "refresh_due_date": "2025-12-22T00:00:00Z",
+    "reviewer": "TrendsPosts LATAM Editorial",
+    "methodology_ref": "trendsposts-methodology-v1",
+    "affiliate_offer_ids": ["claro-co", "movistar-co"],
+    "seo_metadata": {
+      "metaTitle": "Claro vs Movistar Colombia — Cuál operador elegir en 2025",
+      "metaDescription": "Claro vs Movistar Colombia: cobertura, precios, velocidad y 5G comparados. Encuentra el mejor operador.",
+      "ogImage": "https://images.unsplash.com/photo-1611532736597-de2d4265fba3?w=1200&h=630&fit=crop"
+    },
+    "locale": "es",
+    "hreflang_group_id": "es-claro-vs-movistar-colombia"
+  },
+  {
+    "slug": "es-disney-plus-vs-hbo-max-latam",
+    "title": "Disney+ vs HBO Max en Latinoamérica: ¿Cuál streaming elegir?",
+    "excerpt": "Los dos servicios de streaming más recientes en LATAM compiten en contenido, precio y calidad. Analizamos cuál ofrece mejor valor.",
+    "category": "entertainment",
+    "categoryLabel": "Streaming",
+    "author": "editorial-latam",
+    "authorName": "TrendsPosts LATAM Team",
+    "date": "2025-06-22T10:00:00+00:00",
+    "readTime": 8,
+    "image": "https://images.unsplash.com/photo-1574375927938-d5a98e8ffe85?w=860&h=573&fit=crop",
+    "featured": false,
+    "tags": ["streaming", "disney plus", "hbo max", "latam", "entretenimiento"],
+    "views": 31500,
+    "status": "published",
+    "content_type": "comparison",
+    "entity_A": {
+      "name": "Disney+",
+      "image": "https://images.unsplash.com/photo-1586899028174-e7098604235b?w=400&h=400&fit=crop",
+      "priceRange": "$4.99 USD/mes (con anuncios)",
+      "offerId": "disney-plus-latam"
+    },
+    "entity_B": {
+      "name": "HBO Max",
+      "image": "https://images.unsplash.com/photo-1574375927938-d5a98e8ffe85?w=400&h=400&fit=crop",
+      "priceRange": "$5.99 USD/mes (con anuncios)",
+      "offerId": "hbo-max-latam"
+    },
+    "verdict_winner": "B",
+    "spec_comparison_matrix": [
+      { "feature": "Precio mensual", "val_A": "$4.99 (con anuncios)", "val_B": "$5.99 (con anuncios)", "winner": "A" },
+      { "feature": "Calidad de contenido", "val_A": "Franchise (Marvel, Star Wars, Pixar)", "val_B": "Premium (HBO, Max Originals)", "winner": "B" },
+      { "feature": "Descargas offline", "val_A": "Sí (todos los planes)", "val_B": "Sí (solo plan sin anuncios)", "winner": "A" },
+      { "feature": "Perfiles", "val_A": "Hasta 7", "val_B": "Hasta 5", "winner": "A" },
+      { "feature": "Contenido infantil", "val_A": "Disney, Pixar, National Geographic", "val_B": "Cartoon Network, Looney Tunes", "winner": "A" },
+      { "feature": "Contenido adulto", "val_A": "Star (incluido)", "val_B": "HBO series y películas premium", "winner": "B" },
+      { "feature": "Estrenos originales", "val_A": "Pocos pero grandes", "val_B": "Frecuentes y variados", "winner": "B" }
+    ],
+    "pros_cons_A": [
+      "Mejor para familias con niños",
+      "Contenido de Marvel, Star Wars y Pixar",
+      "Planes baratos con anuncios",
+      "7 perfiles por cuenta",
+      "Descargas en todos los planes"
+    ],
+    "pros_cons_B": [
+      "Mejor calidad de series (HBO)",
+      "Estrenos originales más frecuentes",
+      "Películas de estreno más rápido",
+      "Contenido más variado para adultos",
+      "Calidad de producción superior"
+    ],
+    "when_loser_wins": [
+      "Tienes niños pequeños en casa",
+      "Eres fan de Marvel o Star Wars",
+      "Quieres la opción más barata",
+      "Necesitas descargas en tu plan base",
+      "Prefieres 7 perfiles en tu cuenta"
+    ],
+    "page_class": "support",
+    "structural_blocks": {
+      "question_answered": "Disney+ gana para familias y fans de franquicias. HBO Max gana en calidad de contenido adulto y series originales.",
+      "context": "Disney+ y HBO Max llegaron a Latinoamérica para competir con Netflix y Amazon Prime Video. Cada uno ofrece un catálogo muy diferente que apela a audiencias distintas.",
+      "comparison": "Disney+ es ideal para familias con su contenido de Marvel, Pixar y Disney. HBO Max ofrece la calidad premium de HBO y contenido más variado para adultos. Para niños y franquicias, Disney+. Para series premium, HBO Max.",
+      "action": "Elige Disney+ si tienes familia y te gusta Marvel/Star Wars. Elige HBO Max si prefieres series premium y contenido adulto."
+    },
+    "last_verified_date": "2025-06-20T00:00:00Z",
+    "refresh_due_date": "2025-12-20T00:00:00Z",
+    "reviewer": "TrendsPosts LATAM Editorial",
+    "methodology_ref": "trendsposts-methodology-v1",
+    "affiliate_offer_ids": ["disney-plus-latam", "hbo-max-latam"],
+    "seo_metadata": {
+      "metaTitle": "Disney+ vs HBO Max Latinoamérica — Cuál streaming elegir en 2025",
+      "metaDescription": "Disney+ vs HBO Max: precio, contenido, calidad y variedad comparados para Latinoamérica.",
+      "ogImage": "https://images.unsplash.com/photo-1574375927938-d5a98e8ffe85?w=1200&h=630&fit=crop"
+    },
+    "locale": "es",
+    "hreflang_group_id": "es-disney-plus-vs-hbo-max-latam"
+  }
+]

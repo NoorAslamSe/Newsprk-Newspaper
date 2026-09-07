@@ -1,0 +1,11 @@
+[
+  {
+    "name": "Admin User",
+    "email": "admin@Trendsposts.com",
+    "passwordHash": "$2a$12$LQv3c1yqBWVHxkd0LHAkCOYz6TtxMQJqhN8/LewdBPj/VcSAg/9qK",
+    "roles": ["admin"],
+    "isActive": true,
+    "createdAt": "2024-01-01T00:00:00.000Z",
+    "updatedAt": "2024-01-01T00:00:00.000Z"
+  }
+]
