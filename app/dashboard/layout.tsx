@@ -1,4 +1,5 @@
 import type { Metadata } from "next";
+import "@/app/globals-trendsposts.css";
 import { TooltipProvider } from "@/components/ui/tooltip";
 import { ThemeProvider } from "@/components/providers/theme-provider";
 import { ActiveThemeProvider } from "@/components/active-theme";
