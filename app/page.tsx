@@ -40,6 +40,13 @@ async function buildPostsMenu(html: string): Promise<string> {
   posts = posts.filter((a) => a.slug && a.title);
   if (posts.length === 0) return html;
 
+  // Menu labels show the part of the title before the first ":" (e.g. "Notion
+  // AI Review: Your All-in-One Workspace with AI" -> "Notion AI Review").
+  const menuLabel = (title: string) => {
+    const beforeColon = title.split(":")[0].trim();
+    return beforeColon || title;
+  };
+
   const itemId = (i: number) =>
     MENU_SLOT_IDS[i] ?? 6000 + (i - MENU_SLOT_IDS.length);
 
@@ -47,7 +54,7 @@ async function buildPostsMenu(html: string): Promise<string> {
   const desktopItems = posts
     .map(
       (p, i) =>
-        `\t<li id="menu-item-${itemId(i)}" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-${itemId(i)} nav-item"><a href="/${p.slug}/" class=" dropdown-item">${titleMarkup(p.title)}</a>\t`
+        `\t<li id="menu-item-${itemId(i)}" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-${itemId(i)} nav-item"><a href="/${p.slug}/" class=" dropdown-item">${menuLabel(p.title)}</a>\t`
     )
     .join("");
 
@@ -65,7 +72,7 @@ async function buildPostsMenu(html: string): Promise<string> {
   const mobileItems = posts
     .map(
       (p, i) =>
-        `\t\t<li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-${itemId(i)}"><a href="/${p.slug}/">${titleMarkup(p.title)}</a></li>\n`
+        `\t\t<li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-${itemId(i)}"><a href="/${p.slug}/">${menuLabel(p.title)}</a></li>\n`
     )
     .join("");
 
