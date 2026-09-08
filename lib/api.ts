@@ -58,6 +58,7 @@ function mapArticle(article: any): Article {
     status: article.status,
     articleMedia,
     bodyContent: article.bodyContent,
+    bodyHtml: article.bodyHtml,
     keyTakeawaysContent: article.keyTakeawaysContent,
     finalThoughtsContent: article.finalThoughtsContent,
     adOverrides: stripMongoId(article.adOverrides) || [],

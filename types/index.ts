@@ -68,6 +68,7 @@ export interface Article {
   status?: string;
   articleMedia?: ArticleMedia;
   bodyContent?: string;
+  bodyHtml?: string;
   keyTakeawaysContent?: string;
   finalThoughtsContent?: string;
   adOverrides?: { position: string; adSnippetId: string; width?: number; height?: number }[];

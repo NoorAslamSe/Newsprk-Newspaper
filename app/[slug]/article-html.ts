@@ -378,8 +378,8 @@ export const ARTICLE_HTML = `
         </div>
         <div class="col-lg-7 col-sm-12 col-md-8 text-sm-left text-md-right text-lg-right">
                <div class="page_comments">
-       <ul class="inline">
-          <li><i class="fal fa-clock"></i> __ARTICLE_META_DATE__</li> <li><i class="fal fa-comment"></i>No Comment</li> <li><i class="fal fa-eye"></i> __ARTICLE_META_VIEWS__</li>       </ul>
+<ul class="inline" style="display:flex;flex-direction:row;align-items:center;justify-content:flex-end;gap:20px;list-style:none;margin:0;padding:0;flex-wrap:wrap;">
+           <li><i class="fal fa-clock"></i> __ARTICLE_META_DATE__</li> <li><i class="fal fa-comment"></i>No Comment</li> <li><i class="fal fa-eye"></i> __ARTICLE_META_VIEWS__</li>       </ul>
    </div>  
         </div>
     </div>
