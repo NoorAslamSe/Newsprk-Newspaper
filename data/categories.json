@@ -3,28 +3,24 @@
     "slug": "business",
     "label": "Business",
     "color": "#eb0254",
-    "count": 25,
+    "count": 47,
     "footerLabel": "Hot",
-    "_id": "business",
-    "name": "Business",
     "locale": "en"
   },
   {
     "slug": "technology",
     "label": "Technology",
     "color": "#3b82f6",
-    "count": 22,
-    "_id": "technology",
-    "name": "Technology",
+    "count": 10,
+    "footerLabel": "",
     "locale": "en"
   },
   {
     "slug": "sports",
     "label": "Sports",
     "color": "#10b981",
-    "count": 20,
-    "_id": "sports",
-    "name": "Sports",
+    "count": 3,
+    "footerLabel": "",
     "locale": "en"
   },
   {
@@ -32,8 +28,7 @@
     "label": "Travel",
     "color": "#f59e0b",
     "count": 18,
-    "_id": "travel",
-    "name": "Travel",
+    "footerLabel": "",
     "locale": "en"
   },
   {
@@ -41,44 +36,39 @@
     "label": "Politics",
     "color": "#8b5cf6",
     "count": 16,
-    "_id": "politics",
-    "name": "Politics",
+    "footerLabel": "",
     "locale": "en"
   },
   {
     "slug": "lifestyle",
     "label": "Lifestyle",
     "color": "#ec4899",
-    "count": 19,
-    "_id": "lifestyle",
-    "name": "Lifestyle",
+    "count": 12,
+    "footerLabel": "",
     "locale": "en"
   },
   {
     "slug": "entertainment",
     "label": "Entertainment",
     "color": "#ef4444",
-    "count": 21,
-    "_id": "entertainment",
-    "name": "Entertainment",
+    "count": 5,
+    "footerLabel": "",
     "locale": "en"
   },
   {
     "slug": "fashion",
     "label": "Fashion",
     "color": "#d946ef",
-    "count": 14,
-    "_id": "fashion",
-    "name": "Fashion",
+    "count": 3,
+    "footerLabel": "",
     "locale": "en"
   },
   {
     "slug": "science",
     "label": "Science",
     "color": "#06b6d4",
-    "count": 15,
-    "_id": "science",
-    "name": "Science",
+    "count": 2,
+    "footerLabel": "",
     "locale": "en"
   },
   {
@@ -86,8 +76,71 @@
     "label": "Photography",
     "color": "#f97316",
     "count": 12,
-    "_id": "photography",
-    "name": "Photography",
+    "footerLabel": "",
+    "locale": "en"
+  },
+  {
+    "slug": "money",
+    "label": "Money",
+    "color": "#1a8cb2",
+    "count": 6,
+    "footerLabel": "",
+    "locale": "en"
+  },
+  {
+    "slug": "wellness",
+    "label": "Wellness",
+    "color": "#8b5cf6",
+    "count": 1,
+    "footerLabel": "",
+    "locale": "en"
+  },
+  {
+    "slug": "tech-leaks",
+    "label": "Tech Leaks",
+    "color": "#10b981",
+    "count": 13,
+    "footerLabel": "",
+    "locale": "en"
+  },
+  {
+    "slug": "offbeat",
+    "label": "Offbeat",
+    "color": "#f59e0b",
+    "count": 4,
+    "footerLabel": "",
+    "locale": "en"
+  },
+  {
+    "slug": "showbiz",
+    "label": "Showbiz",
+    "color": "#ec4899",
+    "count": 3,
+    "footerLabel": "",
+    "locale": "en"
+  },
+  {
+    "slug": "trending",
+    "label": "Trending",
+    "color": "#ef4444",
+    "count": 5,
+    "footerLabel": "",
+    "locale": "en"
+  },
+  {
+    "slug": "lists",
+    "label": "Lists",
+    "color": "#06b6d4",
+    "count": 7,
+    "footerLabel": "",
+    "locale": "en"
+  },
+  {
+    "slug": "gaming",
+    "label": "Gaming",
+    "color": "#d946ef",
+    "count": 2,
+    "footerLabel": "",
     "locale": "en"
   }
 ]
