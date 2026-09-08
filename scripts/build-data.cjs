@@ -132,7 +132,7 @@ function extractRefArticles(map) {
     const viewsM = h.match(/<i class="fal fa-eye"><\/i>[\s\S]*?([\d,]+)<\/li>/);
     const views = viewsM ? parseInt(viewsM[1].replace(/,/g, ""), 10) || 0 : 0;
 
-    const authM = h.match(/<div class="author__data">[\s\S]*?<a href="[^"]*">[\s\S]*?>([\s\S]*?)<\/a>/);
+    const authM = h.match(/<div class="author__data">[\s\S]*?<a href="[^"]*"[^>]*>([^<]*)<\/a>/);
     const authorName = authM ? clean(authM[1]) || "TrendsPosts" : "TrendsPosts";
 
     const heroM = h.match(/<div class="video_img">[\s\S]*?<img[^>]*?src="([^"]+)"/);
