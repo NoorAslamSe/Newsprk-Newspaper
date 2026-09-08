@@ -378,6 +378,7 @@ export const ARTICLE_HTML = `
         </div>
         <div class="col-lg-7 col-sm-12 col-md-8 text-sm-left text-md-right text-lg-right">
                <div class="page_comments">
+<style>.page_comments ul.inline{display:flex!important;flex-direction:row!important;align-items:center!important;justify-content:flex-end!important;gap:20px!important;flex-wrap:wrap!important;list-style:none!important;margin:0!important;padding:0!important}.page_comments ul.inline li{display:inline-flex!important;align-items:center!important;gap:6px!important;flex:0 0 auto!important;white-space:nowrap!important}</style>
 <ul class="inline" style="display:flex;flex-direction:row;align-items:center;justify-content:flex-end;gap:20px;list-style:none;margin:0;padding:0;flex-wrap:wrap;">
            <li><i class="fal fa-clock"></i> __ARTICLE_META_DATE__</li> <li><i class="fal fa-comment"></i>No Comment</li> <li><i class="fal fa-eye"></i> __ARTICLE_META_VIEWS__</li>       </ul>
    </div>  
