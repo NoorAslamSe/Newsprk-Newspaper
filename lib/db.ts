@@ -90,7 +90,7 @@ const cached: Cached = global._mongoose ?? { conn: null, promise: null };
 global._mongoose = cached;
 
 // Database name — matches the database specified in MONGO_URI
-const DB_NAME = "trendsposts-db";
+const DB_NAME = "dailytopnews-db";
 
 export async function connectDB() {
   const { MONGO_URI, USE_DATABASE } = getEnv();
