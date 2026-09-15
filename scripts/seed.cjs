@@ -3,7 +3,7 @@
  *
  * Reads the canonical data/articles.json + data/categories.json produced by
  * scripts/build-data.cjs and populates the connected MongoDB database
- * (cluster0.u4w55cb.mongodb.net / trendsposts-db).
+ * (cluster0.u4w55cb.mongodb.net / dailytopnews-db).
  *
  * Behaviour is ADDITIVE and safe:
  *  - categories: inserted only when the categories collection is empty
@@ -40,7 +40,7 @@ function loadEnv() {
   return out;
 }
 
-const DB_NAME = "trendsposts-db";
+const DB_NAME = "dailytopnews-db";
 
 function resolveUri(raw) {
   let uri = String(raw || "").trim();
@@ -148,7 +148,7 @@ async function seed() {
     await Category.updateOne({ slug, locale: "en" }, { $set: { count } }).catch(() => {});
   }
 
-  console.log("\n📊 Final state (db: trendsposts-db):");
+  console.log("\n📊 Final state (db: dailytopnews-db):");
   console.log(`  Categories : ${await Category.countDocuments({})}`);
   console.log(`  Articles   : ${await Article.countDocuments({})}`);
   console.log(`   ├ inserted : ${inserted}`);

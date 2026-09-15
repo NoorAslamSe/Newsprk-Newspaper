@@ -1,7 +1,7 @@
 /**
  * Import the 50-item Nowvirals dataset (the trendsposts/dailytips production
  * article dataset, schema-compatible with the article runtime) into the real
- * `trendsposts-db` database.
+ * `dailytopnews-db` database.
  *
  * Behaviour is ADDITIVE and safe:
  *  - categories: inserted only when the categories collection is empty
@@ -32,7 +32,7 @@ function loadEnv() {
   return out;
 }
 
-const DB_NAME = "trendsposts-db";
+const DB_NAME = "dailytopnews-db";
 
 function resolveUri(raw) {
   let uri = String(raw || "").trim();
@@ -169,12 +169,12 @@ async function importData() {
   console.log(`  Existing : ${cleanPosts.length - inserted - updated}`);
 
   console.log("\n" + "─".repeat(55));
-  console.log("📊 Final state (db: trendsposts-db):");
+  console.log("📊 Final state (db: dailytopnews-db):");
   console.log(`  Categories : ${await SimpleCategory.countDocuments({})}`);
   console.log(`  Users      : ${await User.countDocuments({})}`);
   console.log(`  Articles   : ${await Article.countDocuments({})}`);
   console.log("─".repeat(55));
-  console.log("✅ Done. The app now reads/writes the real trendsposts database.");
+  console.log("✅ Done. The app now reads/writes the dailytopnews-db database.");
 }
 
 importData()

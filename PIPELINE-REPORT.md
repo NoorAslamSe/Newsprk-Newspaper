@@ -34,7 +34,7 @@
 | `data/categories.json` | Regenerated — 18 categories with computed article counts (10 base + money, wellness, tech-leaks, offbeat, showbiz, trending, lists, gaming). |
 | (env) `.env.local`, `Dailytips/.env` | MONGO_URI switched to the senior-provided production cluster `cluster0.u4w55cb.mongodb.net` (not committed — gitignored). |
 
-## 4. Database (MongoDB Atlas — `cluster0.u4w55cb / trendsposts-db`)
+## 4. Database (MongoDB Atlas — `cluster0.u4w55cb / dailytopnews-db`)
 
 Seeded via `node scripts/seed.cjs`:
 
