@@ -27,13 +27,37 @@ function stripMongoId(obj: any): any {
   return obj;
 }
 
+/**
+ * Convert protocol-relative image URLs (//uploads/...) into root-relative
+ * paths (/uploads/...) so browsers resolve them against the site's own host
+ * instead of treating "uploads" as a hostname. External //host URLs are left
+ * untouched.
+ */
+function normalizeMediaUrl(url: string): string {
+  if (!url) return "";
+  if (url.startsWith("//")) {
+    const rest = url.slice(2);
+    // A "host" segment containing a dot is an external domain (e.g. cdn.example.com);
+    // local roots like /uploads/ have no dot, so keep those root-relative.
+    const host = rest.split("/")[0] || "";
+    if (!host.includes(".")) return "/" + rest;
+  }
+  return url;
+}
+
 function mapArticle(article: any): Article {
-  const heroMediaUrl =
-    article.articleMedia?.heroCoverMedia?.url || article.image || article.entity_A?.image || "";
+  const heroMediaUrl = normalizeMediaUrl(
+    article.articleMedia?.heroCoverMedia?.url || article.image || article.entity_A?.image || ""
+  );
 
   // Backfill articleMedia.heroCoverMedia.url when empty so all components get images
   const articleMedia = { ...(article.articleMedia || {}) };
-  if (!articleMedia.heroCoverMedia) {
+  if (articleMedia.heroCoverMedia) {
+    articleMedia.heroCoverMedia = {
+      ...articleMedia.heroCoverMedia,
+      url: normalizeMediaUrl(articleMedia.heroCoverMedia.url || ""),
+    };
+  } else {
     articleMedia.heroCoverMedia = {};
   }
   if (!articleMedia.heroCoverMedia.url && heroMediaUrl) {
@@ -224,7 +248,7 @@ async function fetchCategoriesFromDB(): Promise<Category[]> {
     const latestImageMap = new Map<string, string>();
     for (const a of latestArticles as any[]) {
       if (!latestImageMap.has(a.category)) {
-        const url = a.articleMedia?.heroCoverMedia?.url || a.image || "";
+        const url = normalizeMediaUrl(a.articleMedia?.heroCoverMedia?.url || a.image || "");
         latestImageMap.set(a.category, url);
       }
     }
@@ -273,8 +297,9 @@ export async function fetchCategories(): Promise<Category[]> {
 // ── Product catalog (megamenu + compare view) ─────────────────────
 
 function mapProduct(article: any): Product {
-  const heroImage =
-    article.articleMedia?.heroCoverMedia?.url || article.image || article.entity_A?.image || "";
+  const heroImage = normalizeMediaUrl(
+    article.articleMedia?.heroCoverMedia?.url || article.image || article.entity_A?.image || ""
+  );
   return {
     slug: article.slug,
     name: article.product_name || article.title,
