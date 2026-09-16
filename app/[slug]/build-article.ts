@@ -14,20 +14,57 @@ function formatDate(raw: any): string {
   return d.toLocaleDateString("en-US", { month: "long", day: "numeric", year: "numeric" });
 }
 
+function elementorSection(inner: string): string {
+  return (
+    '<section class="elementor-section elementor-top-section elementor-element elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-element_type="section">' +
+    '<div class="elementor-container elementor-column-gap-default">' +
+    '<div class="elementor-column elementor-col-100 elementor-top-column elementor-element" data-element_type="column">' +
+    '<div class="elementor-widget-wrap elementor-element-populated">' +
+    inner +
+    "</div></div></div></section>"
+  );
+}
+
+function elementorHeading(title: string, tag: string): string {
+  return (
+    '<div class="elementor-element elementor-widget elementor-widget-heading" data-element_type="widget" data-widget_type="heading.default">' +
+    `<div class="elementor-widget-container"><${tag}>${esc(title)}</${tag}></div>` +
+    "</div>"
+  );
+}
+
+function elementorText(html: string): string {
+  return (
+    '<div class="elementor-element elementor-widget elementor-widget-text-editor" data-element_type="widget" data-widget_type="text-editor.default">' +
+    `<div class="elementor-widget-container">${html}</div>` +
+    "</div>"
+  );
+}
+
 function bodyToElementor(bodyText: string): string {
   const paras = bodyText.split(/\n+/).map((p) => p.trim()).filter(Boolean);
   return paras
-    .map(
-      (p) =>
-        '<section class="elementor-section elementor-top-section elementor-element elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-element_type="section">' +
-        '<div class="elementor-container elementor-column-gap-default">' +
-        '<div class="elementor-column elementor-col-100 elementor-top-column elementor-element" data-element_type="column">' +
-        '<div class="elementor-widget-wrap elementor-element-populated">' +
-        '<div class="elementor-element elementor-widget elementor-widget-text-editor" data-element_type="widget" data-widget_type="text-editor.default">' +
-        `<div class="elementor-widget-container"><p>${esc(p)}</p></div>` +
-        "</div></div></div></div></section>"
+    .map((p) =>
+      elementorSection(elementorText(`<p>${esc(p)}</p>`))
     )
     .join("");
+}
+
+function keyTakeawaysToElementor(bodyText: string): string {
+  const items = bodyText
+    .split(/\n+/)
+    .map((p) => p.trim().replace(/^[•*#-]\s*/, ""))
+    .filter(Boolean);
+  if (items.length === 0) return "";
+  const list = `<ul>${items.map((i) => `<li>${esc(i)}</li>`).join("")}</ul>`;
+  return elementorSection(elementorHeading("Key Takeaways", "h2") + elementorText(list));
+}
+
+function finalThoughtsToElementor(bodyText: string): string {
+  const paras = bodyText.split(/\n+/).map((p) => p.trim()).filter(Boolean);
+  if (paras.length === 0) return "";
+  const body = paras.map((p) => `<p>${esc(p)}</p>`).join("");
+  return elementorSection(elementorHeading("Final Thoughts", "h2") + elementorText(body));
 }
 
 export function buildArticleHtml(a: any): string {
@@ -39,7 +76,10 @@ export function buildArticleHtml(a: any): string {
   const dateStr = formatDate(a.date);
   const views = a.views != null ? String(a.views) : "0";
   const excerpt = a.excerpt || "";
-  const content = a.bodyContent ? bodyToElementor(a.bodyContent) : a.bodyHtml || "";
+  const content =
+    (a.bodyContent ? bodyToElementor(a.bodyContent) : a.bodyHtml || "") +
+    keyTakeawaysToElementor(a.keyTakeawaysContent || "") +
+    finalThoughtsToElementor(a.finalThoughtsContent || "");
 
   const fill: [string, string][] = [
     ["__ARTICLE_TITLE__", esc(a.title)],
